@@ -31,7 +31,7 @@ Markdown lands in `output/markdown/`.
 
 `Article N` / `Section N` / `Chapter N` only count as headings when they are the **entire line** (`…\s*$`). Mid-sentence wraps like `Article 51;` or `Article 8(1).` stay paragraphs so breadcrumbs stay on real articles.
 
-GDPR **recitals** `(1)`…`(173)` are indexed as their own units (`^\(\d+\)`), including bare `(N)` lines and missing-space forms like `(15)In order…`. OJ footnote cites (`(1) OJ C …`) stay out of the recital index. Article 4 definitions reuse the same parenthetical unit pattern under `Article 4 › (N)`.
+GDPR **recitals** `(1)`…`(173)` are indexed as their own units (`^\(\d+\)`), including bare `(N)` lines and missing-space forms like `(15)In order…`. OJ footnote cites (`(1) OJ C …`) stay out of the recital index. Article 4 definitions reuse the same parenthetical unit pattern and **nest under `Article 4`** in the breadcrumb (`Article 4 › (N)`), not as siblings of Article 4.
 
 ### Apple Standards pages
 
@@ -79,11 +79,12 @@ Resolution policy (matches the design note):
 |-----|-------------|
 | RBA | Breadcrumbs carry hierarchy; `Participant` attaches from the preamble into later sections |
 | Apple | `FCW` / `TPEA` attach far from their glossary defs; named Standards resolve when detectable |
-| GDPR | `Article 5` chunk gets an `Article 89(1)` excerpt; Article 4 terms attach where used |
+| GDPR | `Article 5` chunk gets an `Article 89(1)` excerpt; Article 4 terms (`processing`, `controller`, …) attach where used; `Article 4 › (N)` breadcrumbs keep defs under Article 4 |
 
 ### Accepted Day 3 limits
 
 - Apple Standards section titles were often fragmented in Day 2 parsing; named-standard lookup may land on the nearest Code/TOC match (e.g. Code "Wages and Benefits") rather than the full Standards chapter body.
+- Apple Wages page (~p.42) can still zigzag in two-column + sidebar-table layouts (known parser limit).
 - Glossary harvest is pattern-based (not a full legal NER). Noise terms can appear; attachments are still filterable in eval.
 - Without `--llm` / API key, long resolved excerpts are truncated rather than paraphrased.
 

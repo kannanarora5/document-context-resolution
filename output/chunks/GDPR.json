@@ -1,6 +1,6 @@
 {
   "doc_id": "GDPR",
-  "chunk_count": 316,
+  "chunk_count": 312,
   "chunks": [
     {
       "chunk_id": "GDPR-0001",
@@ -56,8 +56,8 @@
       "pages": [
         1
       ],
-      "text": "(2)\n\nThe principles of, and rules on the protection of natural persons with regard to the processing of their personal data should, whatever their nationality or residence, respect their fundamental rights and freedoms, in particular their right to the protection of personal data. This Regulation is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of natural persons.",
-      "char_count": 576,
+      "text": "(2)\n\nThe principles of, and rules on the protection of natural persons with regard to the processing of their personal data should, whatever their nationality or residence, respect their fundamental rights and freedoms, in particular their right to the protection of personal data. This Regulation is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of natural persons. Directive 95/46/EC of the European Parliament and of the Council (4) seeks to harmonise the protection of",
+      "char_count": 682,
       "part": 1,
       "part_count": 1,
       "context_before": "(1)\n\nThe protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the ‘Charter’) and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her."
@@ -71,11 +71,11 @@
       "pages": [
         1
       ],
-      "text": "(3)\n\nDirective 95/46/EC of the European Parliament and of the Council (4) seeks to harmonise the protection of fundamental rights and freedoms of natural persons in respect of processing activities and to ensure the free flow of personal data between Member States. (1) OJ C 229, 31.7.2012, p. 90. (2) OJ C 391, 18.12.2012, p. 127. (3) Position of the European Parliament of 12 March 2014 (not yet published in the Official Journal) and position of the Council at first reading of 8 April 2016 (not yet published in the Official Journal). Position of the European Parliament of 14 April 2016. (4) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).",
-      "char_count": 829,
+      "text": "(3)\n\nfundamental rights and freedoms of natural persons in respect of processing activities and to ensure the free flow of personal data between Member States. (1) OJ C 229, 31.7.2012, p. 90. (2) OJ C 391, 18.12.2012, p. 127. (3) Position of the European Parliament of 12 March 2014 (not yet published in the Official Journal) and position of the Council at first reading of 8 April 2016 (not yet published in the Official Journal). Position of the European Parliament of 14 April 2016. (4) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).",
+      "char_count": 723,
       "part": 1,
       "part_count": 1,
-      "context_before": "pect their fundamental rights and freedoms, in particular their right to the protection of personal data. This Regulation is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of natural persons."
+      "context_before": "This Regulation is intended to contribute to the accomplishment of an area of freedom, security and justice and of an economic union, to economic and social progress, to the strengthening and the convergence of the economies within the internal market, and to the well-being of natural persons. Directive 95/46/EC of the European Parliament and of the Council (4) seeks to harmonise the protection of"
     },
     {
       "chunk_id": "GDPR-0006",
@@ -2636,9 +2636,9 @@
     {
       "chunk_id": "GDPR-0176",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER I",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER I",
       "heading": "CHAPTER I",
-      "level": 1,
+      "level": 2,
       "pages": [
         32
       ],
@@ -2651,9 +2651,9 @@
     {
       "chunk_id": "GDPR-0177",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 1",
+      "breadcrumb": "GDPR › REGULATIONS › Article 1",
       "heading": "Article 1",
-      "level": 1,
+      "level": 2,
       "pages": [
         32
       ],
@@ -2666,9 +2666,9 @@
     {
       "chunk_id": "GDPR-0178",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 2",
+      "breadcrumb": "GDPR › REGULATIONS › Article 2",
       "heading": "Article 2",
-      "level": 1,
+      "level": 2,
       "pages": [
         32
       ],
@@ -2681,9 +2681,9 @@
     {
       "chunk_id": "GDPR-0179",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 3",
+      "breadcrumb": "GDPR › REGULATIONS › Article 3",
       "heading": "Article 3",
-      "level": 1,
+      "level": 2,
       "pages": [
         32,
         33
@@ -2697,9 +2697,9 @@
     {
       "chunk_id": "GDPR-0180",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4",
       "heading": "Article 4",
-      "level": 1,
+      "level": 2,
       "pages": [
         33
       ],
@@ -2712,9 +2712,9 @@
     {
       "chunk_id": "GDPR-0181",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (1)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (1)",
       "heading": "(1)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2727,9 +2727,9 @@
     {
       "chunk_id": "GDPR-0182",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (2)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (2)",
       "heading": "(2)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2742,9 +2742,9 @@
     {
       "chunk_id": "GDPR-0183",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (3)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (3)",
       "heading": "(3)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2757,9 +2757,9 @@
     {
       "chunk_id": "GDPR-0184",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (4)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (4)",
       "heading": "(4)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2772,9 +2772,9 @@
     {
       "chunk_id": "GDPR-0185",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (5)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (5)",
       "heading": "(5)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2787,9 +2787,9 @@
     {
       "chunk_id": "GDPR-0186",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (6)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (6)",
       "heading": "(6)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2802,9 +2802,9 @@
     {
       "chunk_id": "GDPR-0187",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (7)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (7)",
       "heading": "(7)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2817,9 +2817,9 @@
     {
       "chunk_id": "GDPR-0188",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (8)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (8)",
       "heading": "(8)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2832,9 +2832,9 @@
     {
       "chunk_id": "GDPR-0189",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (9)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (9)",
       "heading": "(9)",
-      "level": 2,
+      "level": 3,
       "pages": [
         33
       ],
@@ -2847,9 +2847,9 @@
     {
       "chunk_id": "GDPR-0190",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (10)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (10)",
       "heading": "(10)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2862,9 +2862,9 @@
     {
       "chunk_id": "GDPR-0191",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (11)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (11)",
       "heading": "(11)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2877,9 +2877,9 @@
     {
       "chunk_id": "GDPR-0192",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (12)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (12)",
       "heading": "(12)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2892,9 +2892,9 @@
     {
       "chunk_id": "GDPR-0193",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (13)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (13)",
       "heading": "(13)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2907,9 +2907,9 @@
     {
       "chunk_id": "GDPR-0194",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (14)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (14)",
       "heading": "(14)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2922,9 +2922,9 @@
     {
       "chunk_id": "GDPR-0195",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (15)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (15)",
       "heading": "(15)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2937,13 +2937,13 @@
     {
       "chunk_id": "GDPR-0196",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (16)",
-      "heading": "(16)",
-      "level": 2,
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (16) ‘main establishment’ means:",
+      "heading": "(16) ‘main establishment’ means:",
+      "level": 3,
       "pages": [
         34
       ],
-      "text": "(16)\n\n‘main establishment’ means: (a) as regards a controller with establishments in more than one Member State, the place of its central adminis­ tration in the Union, unless the decisions on the purposes and means of the processing of personal data are taken in another establishment of the controller in the Union and the latter establishment has the power to have such decisions implemented, in which case the establishment having taken such decisions is to be considered to be the main establishment; (b) as regards a processor with establishments in more than one Member State, the place of its central adminis­ tration in the Union, or, if the processor has no central administration in the Union, the establishment of the processor in the Union where the main processing activities in the context of the activities of an establishment of the processor take place to the extent that the processor is subject to specific obligations under this",
+      "text": "(16) ‘main establishment’ means:\n\n(a) as regards a controller with establishments in more than one Member State, the place of its central adminis­ tration in the Union, unless the decisions on the purposes and means of the processing of personal data are taken in another establishment of the controller in the Union and the latter establishment has the power to have such decisions implemented, in which case the establishment having taken such decisions is to be considered to be the main establishment; (b) as regards a processor with establishments in more than one Member State, the place of its central adminis­ tration in the Union, or, if the processor has no central administration in the Union, the establishment of the processor in the Union where the main processing activities in the context of the activities of an establishment of the processor take place to the extent that the processor is subject to specific obligations under this",
       "char_count": 949,
       "part": 1,
       "part_count": 1,
@@ -2952,9 +2952,9 @@
     {
       "chunk_id": "GDPR-0197",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (17)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (17)",
       "heading": "(17)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2967,9 +2967,9 @@
     {
       "chunk_id": "GDPR-0198",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (18)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (18)",
       "heading": "(18)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2982,9 +2982,9 @@
     {
       "chunk_id": "GDPR-0199",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (19)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (19)",
       "heading": "(19)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -2997,9 +2997,9 @@
     {
       "chunk_id": "GDPR-0200",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (20)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (20)",
       "heading": "(20)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -3012,9 +3012,9 @@
     {
       "chunk_id": "GDPR-0201",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (21)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (21)",
       "heading": "(21)",
-      "level": 2,
+      "level": 3,
       "pages": [
         34
       ],
@@ -3027,9 +3027,9 @@
     {
       "chunk_id": "GDPR-0202",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (22)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (22)",
       "heading": "(22)",
-      "level": 2,
+      "level": 3,
       "pages": [
         35
       ],
@@ -3042,13 +3042,13 @@
     {
       "chunk_id": "GDPR-0203",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (23)",
-      "heading": "(23)",
-      "level": 2,
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (23) ‘cross-border processing’ means either:",
+      "heading": "(23) ‘cross-border processing’ means either:",
+      "level": 3,
       "pages": [
         35
       ],
-      "text": "(23)\n\n‘cross-border processing’ means either: (a) processing of personal data which takes place in the context of the activities of establishments in more than one Member State of a controller or processor in the Union where the controller or processor is established in more than one Member State; or (b) processing of personal data which takes place in the context of the activities of a single establishment of a controller or processor in the Union but which substantially affects or is likely to substantially affect data subjects in more than one Member State.",
+      "text": "(23) ‘cross-border processing’ means either:\n\n(a) processing of personal data which takes place in the context of the activities of establishments in more than one Member State of a controller or processor in the Union where the controller or processor is established in more than one Member State; or (b) processing of personal data which takes place in the context of the activities of a single establishment of a controller or processor in the Union but which substantially affects or is likely to substantially affect data subjects in more than one Member State.",
       "char_count": 566,
       "part": 1,
       "part_count": 1,
@@ -3057,9 +3057,9 @@
     {
       "chunk_id": "GDPR-0204",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (24)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (24)",
       "heading": "(24)",
-      "level": 2,
+      "level": 3,
       "pages": [
         35
       ],
@@ -3072,9 +3072,9 @@
     {
       "chunk_id": "GDPR-0205",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (25)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (25)",
       "heading": "(25)",
-      "level": 2,
+      "level": 3,
       "pages": [
         35
       ],
@@ -3087,9 +3087,9 @@
     {
       "chunk_id": "GDPR-0206",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 4 › (26)",
+      "breadcrumb": "GDPR › REGULATIONS › Article 4 › (26)",
       "heading": "(26)",
-      "level": 2,
+      "level": 3,
       "pages": [
         35
       ],
@@ -3102,9 +3102,9 @@
     {
       "chunk_id": "GDPR-0207",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER II",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER II",
       "heading": "CHAPTER II",
-      "level": 1,
+      "level": 2,
       "pages": [
         35
       ],
@@ -3117,9 +3117,9 @@
     {
       "chunk_id": "GDPR-0208",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 5",
+      "breadcrumb": "GDPR › REGULATIONS › Article 5",
       "heading": "Article 5",
-      "level": 1,
+      "level": 2,
       "pages": [
         35,
         36
@@ -3133,9 +3133,9 @@
     {
       "chunk_id": "GDPR-0209",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 6",
+      "breadcrumb": "GDPR › REGULATIONS › Article 6",
       "heading": "Article 6",
-      "level": 1,
+      "level": 2,
       "pages": [
         36,
         37
@@ -3149,9 +3149,9 @@
     {
       "chunk_id": "GDPR-0210",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 7",
+      "breadcrumb": "GDPR › REGULATIONS › Article 7",
       "heading": "Article 7",
-      "level": 1,
+      "level": 2,
       "pages": [
         37
       ],
@@ -3164,9 +3164,9 @@
     {
       "chunk_id": "GDPR-0211",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 8",
+      "breadcrumb": "GDPR › REGULATIONS › Article 8",
       "heading": "Article 8",
-      "level": 1,
+      "level": 2,
       "pages": [
         37,
         38
@@ -3180,9 +3180,9 @@
     {
       "chunk_id": "GDPR-0212",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 9",
+      "breadcrumb": "GDPR › REGULATIONS › Article 9",
       "heading": "Article 9",
-      "level": 1,
+      "level": 2,
       "pages": [
         38,
         39
@@ -3196,9 +3196,9 @@
     {
       "chunk_id": "GDPR-0213",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 10",
+      "breadcrumb": "GDPR › REGULATIONS › Article 10",
       "heading": "Article 10",
-      "level": 1,
+      "level": 2,
       "pages": [
         39
       ],
@@ -3211,9 +3211,9 @@
     {
       "chunk_id": "GDPR-0214",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 11",
+      "breadcrumb": "GDPR › REGULATIONS › Article 11",
       "heading": "Article 11",
-      "level": 1,
+      "level": 2,
       "pages": [
         39
       ],
@@ -3226,9 +3226,9 @@
     {
       "chunk_id": "GDPR-0215",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER III",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER III",
       "heading": "CHAPTER III",
-      "level": 1,
+      "level": 2,
       "pages": [
         39
       ],
@@ -3241,9 +3241,9 @@
     {
       "chunk_id": "GDPR-0216",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 12",
+      "breadcrumb": "GDPR › REGULATIONS › Article 12",
       "heading": "Article 12",
-      "level": 1,
+      "level": 2,
       "pages": [
         39,
         40
@@ -3257,9 +3257,9 @@
     {
       "chunk_id": "GDPR-0217",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 13",
+      "breadcrumb": "GDPR › REGULATIONS › Article 13",
       "heading": "Article 13",
-      "level": 1,
+      "level": 2,
       "pages": [
         40,
         41
@@ -3273,9 +3273,9 @@
     {
       "chunk_id": "GDPR-0218",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 14",
+      "breadcrumb": "GDPR › REGULATIONS › Article 14",
       "heading": "Article 14",
-      "level": 1,
+      "level": 2,
       "pages": [
         41,
         42
@@ -3289,9 +3289,9 @@
     {
       "chunk_id": "GDPR-0219",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 15",
+      "breadcrumb": "GDPR › REGULATIONS › Article 15",
       "heading": "Article 15",
-      "level": 1,
+      "level": 2,
       "pages": [
         43
       ],
@@ -3304,9 +3304,9 @@
     {
       "chunk_id": "GDPR-0220",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 16",
+      "breadcrumb": "GDPR › REGULATIONS › Article 16",
       "heading": "Article 16",
-      "level": 1,
+      "level": 2,
       "pages": [
         43
       ],
@@ -3319,9 +3319,9 @@
     {
       "chunk_id": "GDPR-0221",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 17",
+      "breadcrumb": "GDPR › REGULATIONS › Article 17",
       "heading": "Article 17",
-      "level": 1,
+      "level": 2,
       "pages": [
         43,
         44
@@ -3335,9 +3335,9 @@
     {
       "chunk_id": "GDPR-0222",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 18",
+      "breadcrumb": "GDPR › REGULATIONS › Article 18",
       "heading": "Article 18",
-      "level": 1,
+      "level": 2,
       "pages": [
         44,
         45
@@ -3351,9 +3351,9 @@
     {
       "chunk_id": "GDPR-0223",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 19",
+      "breadcrumb": "GDPR › REGULATIONS › Article 19",
       "heading": "Article 19",
-      "level": 1,
+      "level": 2,
       "pages": [
         45
       ],
@@ -3366,14 +3366,14 @@
     {
       "chunk_id": "GDPR-0224",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 20",
+      "breadcrumb": "GDPR › REGULATIONS › Article 20",
       "heading": "Article 20",
-      "level": 1,
+      "level": 2,
       "pages": [
         45
       ],
-      "text": "Article 20\n\nRight to data portability 1.The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where: (a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and (b) the processing is carried out by automated means. 2.In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible. 3.The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. That right shall not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. 4.The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others.",
-      "char_count": 1230,
+      "text": "Article 20\n\nRight to data portability 1.The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where: (a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and (b) the processing is carried out by automated means. 2.In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible. 3.The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. That right shall not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. 4.The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others. Right to object and automated individual decision-making",
+      "char_count": 1287,
       "part": 1,
       "part_count": 1,
       "context_before": "er shall communicate any rectification or erasure of personal data or restriction of processing carried out in accordance with Article 16, Article 17(1) and Article 18 to each recipient to whom the personal data have been disclosed, unless this proves impossible or involves disproportionate effort. The controller shall inform the data subject about those recipients if the data subject requests it."
@@ -3381,24 +3381,9 @@
     {
       "chunk_id": "GDPR-0225",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Section 4",
-      "heading": "Section 4",
-      "level": 1,
-      "pages": [
-        45
-      ],
-      "text": "Section 4\n\nRight to object and automated individual decision-making",
-      "char_count": 67,
-      "part": 1,
-      "part_count": 1,
-      "context_before": "le. 3.The exercise of the right referred to in paragraph 1 of this Article shall be without prejudice to Article 17. That right shall not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. 4.The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others."
-    },
-    {
-      "chunk_id": "GDPR-0226",
-      "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 21",
+      "breadcrumb": "GDPR › REGULATIONS › Article 21",
       "heading": "Article 21",
-      "level": 1,
+      "level": 2,
       "pages": [
         45,
         46
@@ -3407,44 +3392,29 @@
       "char_count": 1875,
       "part": 1,
       "part_count": 1,
-      "context_before": "Section 4\n\nRight to object and automated individual decision-making"
+      "context_before": "1 of this Article shall be without prejudice to Article 17. That right shall not apply to processing necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. 4.The right referred to in paragraph 1 shall not adversely affect the rights and freedoms of others. Right to object and automated individual decision-making"
     },
     {
-      "chunk_id": "GDPR-0227",
+      "chunk_id": "GDPR-0226",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 22",
+      "breadcrumb": "GDPR › REGULATIONS › Article 22",
       "heading": "Article 22",
-      "level": 1,
+      "level": 2,
       "pages": [
         46
       ],
-      "text": "Article 22\n\nAutomated individual decision-making, including profiling 1.The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her. 2.Paragraph 1 shall not apply if the decision: (a) is necessary for entering into, or performance of, a contract between the data subject and a data controller; (b) is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or (c) is based on the data subject's explicit consent. 3.In the cases referred to in points (a) and (c) of paragraph 2, the data controller shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision. 4.Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place.",
-      "char_count": 1346,
+      "text": "Article 22\n\nAutomated individual decision-making, including profiling 1.The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her. 2.Paragraph 1 shall not apply if the decision: (a) is necessary for entering into, or performance of, a contract between the data subject and a data controller; (b) is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or (c) is based on the data subject's explicit consent. 3.In the cases referred to in points (a) and (c) of paragraph 2, the data controller shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision. 4.Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place. Restrictions",
+      "char_count": 1359,
       "part": 1,
       "part_count": 1,
       "context_before": ".Where personal data are processed for scientific or historical research purposes or statistical purposes pursuant to Article 89(1), the data subject, on grounds relating to his or her particular situation, shall have the right to object to processing of personal data concerning him or her, unless the processing is necessary for the performance of a task carried out for reasons of public interest."
     },
     {
-      "chunk_id": "GDPR-0228",
+      "chunk_id": "GDPR-0227",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Section 5",
-      "heading": "Section 5",
-      "level": 1,
-      "pages": [
-        46
-      ],
-      "text": "Section 5\n\nRestrictions",
-      "char_count": 23,
-      "part": 1,
-      "part_count": 1,
-      "context_before": "uman intervention on the part of the controller, to express his or her point of view and to contest the decision. 4.Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place."
-    },
-    {
-      "chunk_id": "GDPR-0229",
-      "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 23",
+      "breadcrumb": "GDPR › REGULATIONS › Article 23",
       "heading": "Article 23",
-      "level": 1,
+      "level": 2,
       "pages": [
         46,
         47
@@ -3453,14 +3423,14 @@
       "char_count": 2314,
       "part": 1,
       "part_count": 1,
-      "context_before": "Section 5\n\nRestrictions"
+      "context_before": "tion on the part of the controller, to express his or her point of view and to contest the decision. 4.Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9(1), unless point (a) or (g) of Article 9(2) applies and suitable measures to safeguard the data subject's rights and freedoms and legitimate interests are in place. Restrictions"
     },
     {
-      "chunk_id": "GDPR-0230",
+      "chunk_id": "GDPR-0228",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER IV",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER IV",
       "heading": "CHAPTER IV",
-      "level": 1,
+      "level": 2,
       "pages": [
         47
       ],
@@ -3471,11 +3441,11 @@
       "context_before": "on of the controller or categories of controllers; (f) the storage periods and the applicable safeguards taking into account the nature, scope and purposes of the processing or categories of processing; (g) the risks to the rights and freedoms of data subjects; and (h) the right of data subjects to be informed about the restriction, unless that may be prejudicial to the purpose of the restriction."
     },
     {
-      "chunk_id": "GDPR-0231",
+      "chunk_id": "GDPR-0229",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 24",
+      "breadcrumb": "GDPR › REGULATIONS › Article 24",
       "heading": "Article 24",
-      "level": 1,
+      "level": 2,
       "pages": [
         47
       ],
@@ -3486,11 +3456,11 @@
       "context_before": "CHAPTER IV\n\nController and processor General obligations"
     },
     {
-      "chunk_id": "GDPR-0232",
+      "chunk_id": "GDPR-0230",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 25",
+      "breadcrumb": "GDPR › REGULATIONS › Article 25",
       "heading": "Article 25",
-      "level": 1,
+      "level": 2,
       "pages": [
         48
       ],
@@ -3501,11 +3471,11 @@
       "context_before": "ation to processing activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the controller. 3.Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as an element by which to demonstrate compliance with the obligations of the controller."
     },
     {
-      "chunk_id": "GDPR-0233",
+      "chunk_id": "GDPR-0231",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 26",
+      "breadcrumb": "GDPR › REGULATIONS › Article 26",
       "heading": "Article 26",
-      "level": 1,
+      "level": 2,
       "pages": [
         48
       ],
@@ -3516,11 +3486,11 @@
       "context_before": "f their storage and their accessibility. In particular, such measures shall ensure that by default personal data are not made accessible without the individual's intervention to an indefinite number of natural persons. 3.An approved certification mechanism pursuant to Article 42 may be used as an element to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article."
     },
     {
-      "chunk_id": "GDPR-0234",
+      "chunk_id": "GDPR-0232",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 27",
+      "breadcrumb": "GDPR › REGULATIONS › Article 27",
       "heading": "Article 27",
-      "level": 1,
+      "level": 2,
       "pages": [
         48,
         49
@@ -3532,11 +3502,11 @@
       "context_before": "o in paragraph 1 shall duly reflect the respective roles and relationships of the joint controllers vis-à-vis the data subjects. The essence of the arrangement shall be made available to the data subject. 3.Irrespective of the terms of the arrangement referred to in paragraph 1, the data subject may exercise his or her rights under this Regulation in respect of and against each of the controllers."
     },
     {
-      "chunk_id": "GDPR-0235",
+      "chunk_id": "GDPR-0233",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 28",
+      "breadcrumb": "GDPR › REGULATIONS › Article 28",
       "heading": "Article 28",
-      "level": 1,
+      "level": 2,
       "pages": [
         49,
         50
@@ -3548,11 +3518,11 @@
       "context_before": "to or instead of the controller or the processor by, in particular, supervisory authorities and data subjects, on all issues related to processing, for the purposes of ensuring compliance with this Regulation. 5.The designation of a representative by the controller or processor shall be without prejudice to legal actions which could be initiated against the controller or the processor themselves."
     },
     {
-      "chunk_id": "GDPR-0236",
+      "chunk_id": "GDPR-0234",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 29",
+      "breadcrumb": "GDPR › REGULATIONS › Article 29",
       "heading": "Article 29",
-      "level": 1,
+      "level": 2,
       "pages": [
         50
       ],
@@ -3563,11 +3533,11 @@
       "context_before": "he consistency mechanism referred to in Article 63. 9.The contract or the other legal act referred to in paragraphs 3 and 4 shall be in writing, including in electronic form. 10.Without prejudice to Articles 82, 83 and 84, if a processor infringes this Regulation by determining the purposes and means of processing, the processor shall be considered to be a controller in respect of that processing."
     },
     {
-      "chunk_id": "GDPR-0237",
+      "chunk_id": "GDPR-0235",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 30",
+      "breadcrumb": "GDPR › REGULATIONS › Article 30",
       "heading": "Article 30",
-      "level": 1,
+      "level": 2,
       "pages": [
         50,
         51
@@ -3579,11 +3549,11 @@
       "context_before": "Article 29\n\nProcessing under the authority of the controller or processor The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law."
     },
     {
-      "chunk_id": "GDPR-0238",
+      "chunk_id": "GDPR-0236",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 31",
+      "breadcrumb": "GDPR › REGULATIONS › Article 31",
       "heading": "Article 31",
-      "level": 1,
+      "level": 2,
       "pages": [
         51
       ],
@@ -3594,11 +3564,11 @@
       "context_before": "not apply to an enterprise or an organisation employing fewer than 250 persons unless the processing it carries out is likely to result in a risk to the rights and freedoms of data subjects, the processing is not occasional, or the processing includes special categories of data as referred to in Article 9(1) or personal data relating to criminal convictions and offences referred to in Article 10."
     },
     {
-      "chunk_id": "GDPR-0239",
+      "chunk_id": "GDPR-0237",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 32",
+      "breadcrumb": "GDPR › REGULATIONS › Article 32",
       "heading": "Article 32",
-      "level": 1,
+      "level": 2,
       "pages": [
         51,
         52
@@ -3610,11 +3580,11 @@
       "context_before": "Article 31\n\nCooperation with the supervisory authority The controller and the processor and, where applicable, their representatives, shall cooperate, on request, with the supervisory authority in the performance of its tasks. Security of personal data"
     },
     {
-      "chunk_id": "GDPR-0240",
+      "chunk_id": "GDPR-0238",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 33",
+      "breadcrumb": "GDPR › REGULATIONS › Article 33",
       "heading": "Article 33",
-      "level": 1,
+      "level": 2,
       "pages": [
         52
       ],
@@ -3625,11 +3595,11 @@
       "context_before": "ch to demonstrate compliance with the requirements set out in paragraph 1 of this Article. 4.The controller and processor shall take steps to ensure that any natural person acting under the authority of the controller or the processor who has access to personal data does not process them except on instructions from the controller, unless he or she is required to do so by Union or Member State law."
     },
     {
-      "chunk_id": "GDPR-0241",
+      "chunk_id": "GDPR-0239",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 34",
+      "breadcrumb": "GDPR › REGULATIONS › Article 34",
       "heading": "Article 34",
-      "level": 1,
+      "level": 2,
       "pages": [
         52,
         53
@@ -3641,11 +3611,11 @@
       "context_before": "r as, it is not possible to provide the information at the same time, the information may be provided in phases without undue further delay. 5.The controller shall document any personal data breaches, comprising the facts relating to the personal data breach, its effects and the remedial action taken. That documentation shall enable the supervisory authority to verify compliance with this Article."
     },
     {
-      "chunk_id": "GDPR-0242",
+      "chunk_id": "GDPR-0240",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 35",
+      "breadcrumb": "GDPR › REGULATIONS › Article 35",
       "heading": "Article 35",
-      "level": 1,
+      "level": 2,
       "pages": [
         53,
         54
@@ -3657,42 +3627,27 @@
       "context_before": "d in an equally effective manner. 4.If the controller has not already communicated the personal data breach to the data subject, the supervisory authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met. Data protection impact assessment and prior consultation"
     },
     {
-      "chunk_id": "GDPR-0243",
+      "chunk_id": "GDPR-0241",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 36",
+      "breadcrumb": "GDPR › REGULATIONS › Article 36",
       "heading": "Article 36",
-      "level": 1,
+      "level": 2,
       "pages": [
         54,
         55
       ],
-      "text": "Article 36\n\nPrior consultation 1.The controller shall consult the supervisory authority prior to processing where a data protection impact assessment under Article 35 indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk. 2.Where the supervisory authority is of the opinion that the intended processing referred to in paragraph 1 would infringe this Regulation, in particular where the controller has insufficiently identified or mitigated the risk, the supervisory authority shall, within period of up to eight weeks of receipt of the request for consultation, provide written advice to the controller and, where applicable to the processor, and may use any of its powers referred to in Article 58. That period may be extended by six weeks, taking into account the complexity of the intended processing. The supervisory authority shall inform the controller and, where applicable, the processor, of any such extension within one month of receipt of the request for consultation together with the reasons for the delay. Those periods may be suspended until the supervisory authority has obtained information it has requested for the purposes of the consultation. 3.When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with: (a) where applicable, the respective responsibilities of the controller, joint controllers and processors involved in the processing, in particular for processing within a group of undertakings; (b) the purposes and means of the intended processing; (c) the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this (d) where applicable, the contact details of the data protection officer; (e) the data protection impact assessment provided for in Article 35; and (f) any other information requested by the supervisory authority.\n\n4.Member States shall consult the supervisory authority during the preparation of a proposal for a legislative measure to be adopted by a national parliament, or of a regulatory measure based on such a legislative measure, which relates to processing. 5.Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior author­ isation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health.",
-      "char_count": 2548,
+      "text": "Article 36\n\nPrior consultation 1.The controller shall consult the supervisory authority prior to processing where a data protection impact assessment under Article 35 indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk. 2.Where the supervisory authority is of the opinion that the intended processing referred to in paragraph 1 would infringe this Regulation, in particular where the controller has insufficiently identified or mitigated the risk, the supervisory authority shall, within period of up to eight weeks of receipt of the request for consultation, provide written advice to the controller and, where applicable to the processor, and may use any of its powers referred to in Article 58. That period may be extended by six weeks, taking into account the complexity of the intended processing. The supervisory authority shall inform the controller and, where applicable, the processor, of any such extension within one month of receipt of the request for consultation together with the reasons for the delay. Those periods may be suspended until the supervisory authority has obtained information it has requested for the purposes of the consultation. 3.When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with: (a) where applicable, the respective responsibilities of the controller, joint controllers and processors involved in the processing, in particular for processing within a group of undertakings; (b) the purposes and means of the intended processing; (c) the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this (d) where applicable, the contact details of the data protection officer; (e) the data protection impact assessment provided for in Article 35; and (f) any other information requested by the supervisory authority.\n\n4.Member States shall consult the supervisory authority during the preparation of a proposal for a legislative measure to be adopted by a national parliament, or of a regulatory measure based on such a legislative measure, which relates to processing. 5.Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior author­ isation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health. Data protection off icer",
+      "char_count": 2573,
       "part": 1,
       "part_count": 1,
       "context_before": "of that legal basis, paragraphs 1 to 7 shall not apply unless Member States deem it to be necessary to carry out such an assessment prior to processing activities. 11.Where necessary, the controller shall carry out a review to assess if processing is performed in accordance with the data protection impact assessment at least when there is a change of the risk represented by processing operations."
     },
     {
-      "chunk_id": "GDPR-0244",
+      "chunk_id": "GDPR-0242",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Section 4",
-      "heading": "Section 4",
-      "level": 1,
-      "pages": [
-        55
-      ],
-      "text": "Section 4\n\nData protection off icer",
-      "char_count": 35,
-      "part": 1,
-      "part_count": 1,
-      "context_before": "gislative measure, which relates to processing. 5.Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior author­ isation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health."
-    },
-    {
-      "chunk_id": "GDPR-0245",
-      "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 37",
+      "breadcrumb": "GDPR › REGULATIONS › Article 37",
       "heading": "Article 37",
-      "level": 1,
+      "level": 2,
       "pages": [
         55
       ],
@@ -3700,14 +3655,14 @@
       "char_count": 2025,
       "part": 1,
       "part_count": 1,
-      "context_before": "Section 4\n\nData protection off icer"
+      "context_before": "relates to processing. 5.Notwithstanding paragraph 1, Member State law may require controllers to consult with, and obtain prior author­ isation from, the supervisory authority in relation to processing by a controller for the performance of a task carried out by the controller in the public interest, including processing in relation to social protection and public health. Data protection off icer"
     },
     {
-      "chunk_id": "GDPR-0246",
+      "chunk_id": "GDPR-0243",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 38",
+      "breadcrumb": "GDPR › REGULATIONS › Article 38",
       "heading": "Article 38",
-      "level": 1,
+      "level": 2,
       "pages": [
         55,
         56
@@ -3719,41 +3674,26 @@
       "context_before": "knowledge of data protection law and practices and the ability to fulfil the tasks referred to in Article 39. 6.The data protection officer may be a staff member of the controller or processor, or fulfil the tasks on the basis of a service contract. 7.The controller or the processor shall publish the contact details of the data protection officer and communicate them to the supervisory authority."
     },
     {
-      "chunk_id": "GDPR-0247",
+      "chunk_id": "GDPR-0244",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 39",
+      "breadcrumb": "GDPR › REGULATIONS › Article 39",
       "heading": "Article 39",
-      "level": 1,
+      "level": 2,
       "pages": [
         56
       ],
-      "text": "Article 39\n\nTasks of the data protection officer 1.The data protection officer shall have at least the following tasks: (a) to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions; (b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits; (c) to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35; (d) to cooperate with the supervisory authority; (e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter. 2.The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing.",
-      "char_count": 1314,
+      "text": "Article 39\n\nTasks of the data protection officer 1.The data protection officer shall have at least the following tasks: (a) to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions; (b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits; (c) to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35; (d) to cooperate with the supervisory authority; (e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter. 2.The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing. Codes of conduct and certification",
+      "char_count": 1349,
       "part": 1,
       "part_count": 1,
       "context_before": "the exercise of their rights under this Regulation. 5.The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with Union or Member State law. 6.The data protection officer may fulfil other tasks and duties. The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests."
     },
     {
-      "chunk_id": "GDPR-0248",
+      "chunk_id": "GDPR-0245",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Section 5",
-      "heading": "Section 5",
-      "level": 1,
-      "pages": [
-        56
-      ],
-      "text": "Section 5\n\nCodes of conduct and certification",
-      "char_count": 45,
-      "part": 1,
-      "part_count": 1,
-      "context_before": "supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter. 2.The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing."
-    },
-    {
-      "chunk_id": "GDPR-0249",
-      "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 40",
+      "breadcrumb": "GDPR › REGULATIONS › Article 40",
       "heading": "Article 40",
-      "level": 1,
+      "level": 2,
       "pages": [
         56,
         57,
@@ -3763,14 +3703,14 @@
       "char_count": 5054,
       "part": 1,
       "part_count": 1,
-      "context_before": "Section 5\n\nCodes of conduct and certification"
+      "context_before": "ating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter. 2.The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing. Codes of conduct and certification"
     },
     {
-      "chunk_id": "GDPR-0250",
+      "chunk_id": "GDPR-0246",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 41",
+      "breadcrumb": "GDPR › REGULATIONS › Article 41",
       "heading": "Article 41",
-      "level": 1,
+      "level": 2,
       "pages": [
         58
       ],
@@ -3781,11 +3721,11 @@
       "context_before": "ted in accordance with the examination procedure set out in Article 93(2).\n\n10.The Commission shall ensure appropriate publicity for the approved codes which have been decided as having general validity in accordance with paragraph 9. 11.The Board shall collate all approved codes of conduct, amendments and extensions in a register and shall make them publicly available by way of appropriate means."
     },
     {
-      "chunk_id": "GDPR-0251",
+      "chunk_id": "GDPR-0247",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 42",
+      "breadcrumb": "GDPR › REGULATIONS › Article 42",
       "heading": "Article 42",
-      "level": 1,
+      "level": 2,
       "pages": [
         58,
         59
@@ -3797,11 +3737,11 @@
       "context_before": "t supervisory authority of such actions and the reasons for taking them. 5.The competent supervisory authority shall revoke the accreditation of a body as referred to in paragraph 1 if the conditions for accreditation are not, or are no longer, met or where actions taken by the body infringe this Regulation. 6.This Article shall not apply to processing carried out by public authorities and bodies."
     },
     {
-      "chunk_id": "GDPR-0252",
+      "chunk_id": "GDPR-0248",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 43",
+      "breadcrumb": "GDPR › REGULATIONS › Article 43",
       "heading": "Article 43",
-      "level": 1,
+      "level": 2,
       "pages": [
         59,
         60
@@ -3813,11 +3753,11 @@
       "context_before": "to be met. Certification shall be withdrawn, as applicable, by the certification bodies referred to in Article 43 or by the competent supervisory authority where the requirements for the certification are not or are no longer met. 8.The Board shall collate all certification mechanisms and data protection seals and marks in a register and shall make them publicly available by any appropriate means."
     },
     {
-      "chunk_id": "GDPR-0253",
+      "chunk_id": "GDPR-0249",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER V",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER V",
       "heading": "CHAPTER V",
-      "level": 1,
+      "level": 2,
       "pages": [
         60
       ],
@@ -3828,11 +3768,11 @@
       "context_before": "this Chapter are complied with by the controller and processor, including for onward transfers of personal data from the third country or an international organisation to another third country or to another internat­ ional organisation. All provisions in this Chapter shall be applied in order to ensure that the level of protection of natural persons guaranteed by this Regulation is not undermined."
     },
     {
-      "chunk_id": "GDPR-0254",
+      "chunk_id": "GDPR-0250",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 44",
+      "breadcrumb": "GDPR › REGULATIONS › Article 44",
       "heading": "Article 44",
-      "level": 1,
+      "level": 2,
       "pages": [
         60
       ],
@@ -3843,11 +3783,11 @@
       "context_before": "CHAPTER V"
     },
     {
-      "chunk_id": "GDPR-0255",
+      "chunk_id": "GDPR-0251",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 45",
+      "breadcrumb": "GDPR › REGULATIONS › Article 45",
       "heading": "Article 45",
-      "level": 1,
+      "level": 2,
       "pages": [
         61,
         62
@@ -3859,11 +3799,11 @@
       "context_before": "Article 44\n\nGeneral principle for transfers"
     },
     {
-      "chunk_id": "GDPR-0256",
+      "chunk_id": "GDPR-0252",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 46",
+      "breadcrumb": "GDPR › REGULATIONS › Article 46",
       "heading": "Article 46",
-      "level": 1,
+      "level": 2,
       "pages": [
         62
       ],
@@ -3874,11 +3814,11 @@
       "context_before": "nd specified sectors within a third country and international organisations for which it has decided that an adequate level of protection is or is no longer ensured.\n\n9.Decisions adopted by the Commission on the basis of Article 25(6) of Directive 95/46/EC shall remain in force until amended, replaced or repealed by a Commission Decision adopted in accordance with paragraph 3 or 5 of this Article."
     },
     {
-      "chunk_id": "GDPR-0257",
+      "chunk_id": "GDPR-0253",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 47",
+      "breadcrumb": "GDPR › REGULATIONS › Article 47",
       "heading": "Article 47",
-      "level": 1,
+      "level": 2,
       "pages": [
         62,
         63,
@@ -3891,11 +3831,11 @@
       "context_before": "ority on the basis of Article 26(2) of Directive 95/46/EC shall remain valid until amended, replaced or repealed, if necessary, by that supervisory authority. Decisions adopted by the Commission on the basis of Article 26(4) of Directive 95/46/EC shall remain in force until amended, replaced or repealed, if necessary, by a Commission Decision adopted in accordance with paragraph 2 of this Article."
     },
     {
-      "chunk_id": "GDPR-0258",
+      "chunk_id": "GDPR-0254",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 48",
+      "breadcrumb": "GDPR › REGULATIONS › Article 48",
       "heading": "Article 48",
-      "level": 1,
+      "level": 2,
       "pages": [
         64
       ],
@@ -3906,11 +3846,11 @@
       "context_before": "n training to personnel having permanent or regular access to personal data.\n\n3.The Commission may specify the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules within the meaning of this Article. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 93(2)."
     },
     {
-      "chunk_id": "GDPR-0259",
+      "chunk_id": "GDPR-0255",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 49",
+      "breadcrumb": "GDPR › REGULATIONS › Article 49",
       "heading": "Article 49",
-      "level": 1,
+      "level": 2,
       "pages": [
         64,
         65
@@ -3922,11 +3862,11 @@
       "context_before": "nistrative authority of a third country requiring a controller or processor to transfer or disclose personal data may only be recognised or enforceable in any manner if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union or a Member State, without prejudice to other grounds for transfer pursuant to this Chapter."
     },
     {
-      "chunk_id": "GDPR-0260",
+      "chunk_id": "GDPR-0256",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 50",
+      "breadcrumb": "GDPR › REGULATIONS › Article 50",
       "heading": "Article 50",
-      "level": 1,
+      "level": 2,
       "pages": [
         65
       ],
@@ -3937,11 +3877,11 @@
       "context_before": ", expressly set limits to the transfer of specific categories of personal data to a third country or an international organisation. Member States shall notify such provisions to the Commission. 6.The controller or processor shall document the assessment as well as the suitable safeguards referred to in the second subparagraph of paragraph 1 of this Article in the records referred to in Article 30."
     },
     {
-      "chunk_id": "GDPR-0261",
+      "chunk_id": "GDPR-0257",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER VI",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER VI",
       "heading": "CHAPTER VI",
-      "level": 1,
+      "level": 2,
       "pages": [
         65
       ],
@@ -3952,11 +3892,11 @@
       "context_before": "on of personal data and other fundamental rights and freedoms; (c) engage relevant stakeholders in discussion and activities aimed at furthering international cooperation in the enforcement of legislation for the protection of personal data; (d) promote the exchange and documentation of personal data protection legislation and practice, including on jurisdic­ tional conflicts with third countries."
     },
     {
-      "chunk_id": "GDPR-0262",
+      "chunk_id": "GDPR-0258",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 51",
+      "breadcrumb": "GDPR › REGULATIONS › Article 51",
       "heading": "Article 51",
-      "level": 1,
+      "level": 2,
       "pages": [
         65
       ],
@@ -3967,11 +3907,11 @@
       "context_before": "CHAPTER VI\n\nIndependent supervisory authorities Independent status"
     },
     {
-      "chunk_id": "GDPR-0263",
+      "chunk_id": "GDPR-0259",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 52",
+      "breadcrumb": "GDPR › REGULATIONS › Article 52",
       "heading": "Article 52",
-      "level": 1,
+      "level": 2,
       "pages": [
         66
       ],
@@ -3982,11 +3922,11 @@
       "context_before": "is to represent those authorities in the Board and shall set out the mechanism to ensure compliance by the other authorities with the rules relating to the consistency mechanism referred to in Article 63. 4.Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to this Chapter, by 25 May 2018 and, without delay, any subsequent amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0264",
+      "chunk_id": "GDPR-0260",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 53",
+      "breadcrumb": "GDPR › REGULATIONS › Article 53",
       "heading": "Article 53",
-      "level": 1,
+      "level": 2,
       "pages": [
         66
       ],
@@ -3997,11 +3937,11 @@
       "context_before": "y authority chooses and has its own staff which shall be subject to the exclusive direction of the member or members of the supervisory authority concerned. 6.Each Member State shall ensure that each supervisory authority is subject to financial control which does not affect its independence and that it has separate, public annual budgets, which may be part of the overall state or national budget."
     },
     {
-      "chunk_id": "GDPR-0265",
+      "chunk_id": "GDPR-0261",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 54",
+      "breadcrumb": "GDPR › REGULATIONS › Article 54",
       "heading": "Article 54",
-      "level": 1,
+      "level": 2,
       "pages": [
         66,
         67
@@ -4013,11 +3953,11 @@
       "context_before": "ta, required to perform its duties and exercise its powers. 3.The duties of a member shall end in the event of the expiry of the term of office, resignation or compulsory retirement, in accordance with the law of the Member State concerned. 4.A member shall be dismissed only in cases of serious misconduct or if the member no longer fulfils the conditions required for the performance of the duties."
     },
     {
-      "chunk_id": "GDPR-0266",
+      "chunk_id": "GDPR-0262",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 55",
+      "breadcrumb": "GDPR › REGULATIONS › Article 55",
       "heading": "Article 55",
-      "level": 1,
+      "level": 2,
       "pages": [
         67
       ],
@@ -4028,11 +3968,11 @@
       "context_before": "sional secrecy both during and after their term of office, with regard to any confidential information which has come to their knowledge in the course of the performance of their tasks or exercise of their powers. During their term of office, that duty of professional secrecy shall in particular apply to reporting by natural persons of infringements of this Regulation. Competence, tasks and powers"
     },
     {
-      "chunk_id": "GDPR-0267",
+      "chunk_id": "GDPR-0263",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 56",
+      "breadcrumb": "GDPR › REGULATIONS › Article 56",
       "heading": "Article 56",
-      "level": 1,
+      "level": 2,
       "pages": [
         67,
         68
@@ -4044,11 +3984,11 @@
       "context_before": "f its own Member State. 2.Where processing is carried out by public authorities or private bodies acting on the basis of point (c) or (e) of Article 6(1), the supervisory authority of the Member State concerned shall be competent. In such cases Article 56 does not apply. 3.Supervisory authorities shall not be competent to supervise processing operations of courts acting in their judicial capacity."
     },
     {
-      "chunk_id": "GDPR-0268",
+      "chunk_id": "GDPR-0264",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 57",
+      "breadcrumb": "GDPR › REGULATIONS › Article 57",
       "heading": "Article 57",
-      "level": 1,
+      "level": 2,
       "pages": [
         68,
         69
@@ -4060,11 +4000,11 @@
       "context_before": "cision referred to in Article 60(3). 5.Where the lead supervisory authority decides not to handle the case, the supervisory authority which informed the lead supervisory authority shall handle it according to Articles 61 and 62. 6.The lead supervisory authority shall be the sole interlocutor of the controller or processor for the cross-border processing carried out by that controller or processor."
     },
     {
-      "chunk_id": "GDPR-0269",
+      "chunk_id": "GDPR-0265",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 58",
+      "breadcrumb": "GDPR › REGULATIONS › Article 58",
       "heading": "Article 58",
-      "level": 1,
+      "level": 2,
       "pages": [
         69,
         70
@@ -4076,11 +4016,11 @@
       "context_before": "applicable, for the data protection officer. 4.Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, the supervisory authority may charge a reasonable fee based on administrative costs, or refuse to act on the request. The supervisory authority shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request."
     },
     {
-      "chunk_id": "GDPR-0270",
+      "chunk_id": "GDPR-0266",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 59",
+      "breadcrumb": "GDPR › REGULATIONS › Article 59",
       "heading": "Article 59",
-      "level": 1,
+      "level": 2,
       "pages": [
         70
       ],
@@ -4091,11 +4031,11 @@
       "context_before": "ttention of the judicial authorities and where appropriate, to commence or engage otherwise in legal proceedings, in order to enforce the provisions of this Regulation. 6.Each Member State may provide by law that its supervisory authority shall have additional powers to those referred to in paragraphs 1, 2 and 3. The exercise of those powers shall not impair the effective operation of Chapter VII."
     },
     {
-      "chunk_id": "GDPR-0271",
+      "chunk_id": "GDPR-0267",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER VII",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER VII",
       "heading": "CHAPTER VII",
-      "level": 1,
+      "level": 2,
       "pages": [
         71
       ],
@@ -4106,11 +4046,11 @@
       "context_before": "sory authority shall draw up an annual report on its activities, which may include a list of types of infringement notified and types of measures taken in accordance with Article 58(2). Those reports shall be transmitted to the national parliament, the government and other authorities as designated by Member State law. They shall be made available to the public, to the Commission and to the Board."
     },
     {
-      "chunk_id": "GDPR-0272",
+      "chunk_id": "GDPR-0268",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 60",
+      "breadcrumb": "GDPR › REGULATIONS › Article 60",
       "heading": "Article 60",
-      "level": 1,
+      "level": 2,
       "pages": [
         71,
         72
@@ -4122,11 +4062,11 @@
       "context_before": "CHAPTER VII\n\nCooperation and consistency Cooperation"
     },
     {
-      "chunk_id": "GDPR-0273",
+      "chunk_id": "GDPR-0269",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 61",
+      "breadcrumb": "GDPR › REGULATIONS › Article 61",
       "heading": "Article 61",
-      "level": 1,
+      "level": 2,
       "pages": [
         72
       ],
@@ -4137,11 +4077,11 @@
       "context_before": "sory authority concerned has reasons to consider that there is an urgent need to act in order to protect the interests of data subjects, the urgency procedure referred to in Article 66 shall apply. 12.The lead supervisory authority and the other supervisory authorities concerned shall supply the information required under this Article to each other by electronic means, using a standardised format."
     },
     {
-      "chunk_id": "GDPR-0274",
+      "chunk_id": "GDPR-0270",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 62",
+      "breadcrumb": "GDPR › REGULATIONS › Article 62",
       "heading": "Article 62",
-      "level": 1,
+      "level": 2,
       "pages": [
         72,
         73
@@ -4153,11 +4093,11 @@
       "context_before": "mutual assistance referred to in this Article and the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2)."
     },
     {
-      "chunk_id": "GDPR-0275",
+      "chunk_id": "GDPR-0271",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 63",
+      "breadcrumb": "GDPR › REGULATIONS › Article 63",
       "heading": "Article 63",
-      "level": 1,
+      "level": 2,
       "pages": [
         73
       ],
@@ -4168,11 +4108,11 @@
       "context_before": "bligation laid down in the second sentence of paragraph 2 of this Article, the other supervisory authorities may adopt a provisional measure on the territory of its Member State in accordance with Article 55. In that case, the urgent need to act under Article 66(1) shall be presumed to be met and require an opinion or an urgent binding decision from the Board pursuant to Article 66(2). Consistency"
     },
     {
-      "chunk_id": "GDPR-0276",
+      "chunk_id": "GDPR-0272",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 64",
+      "breadcrumb": "GDPR › REGULATIONS › Article 64",
       "heading": "Article 64",
-      "level": 1,
+      "level": 2,
       "pages": [
         73,
         74
@@ -4184,11 +4124,11 @@
       "context_before": "Article 63\n\nConsistency mechanism In order to contribute to the consistent application of this Regulation throughout the Union, the supervisory authorities shall cooperate with each other and, where relevant, with the Commission, through the consistency mechanism as set out in this Section."
     },
     {
-      "chunk_id": "GDPR-0277",
+      "chunk_id": "GDPR-0273",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 65",
+      "breadcrumb": "GDPR › REGULATIONS › Article 65",
       "heading": "Article 65",
-      "level": 1,
+      "level": 2,
       "pages": [
         74,
         75
@@ -4200,11 +4140,11 @@
       "context_before": "s whether it will maintain or amend its draft decision and, if any, the amended draft decision, using a standardised format. 8.Where the supervisory authority concerned informs the Chair of the Board within the period referred to in paragraph 7 of this Article that it does not intend to follow the opinion of the Board, in whole or in part, providing the relevant grounds, Article 65(1) shall apply."
     },
     {
-      "chunk_id": "GDPR-0278",
+      "chunk_id": "GDPR-0274",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 66",
+      "breadcrumb": "GDPR › REGULATIONS › Article 66",
       "heading": "Article 66",
-      "level": 1,
+      "level": 2,
       "pages": [
         75
       ],
@@ -4215,11 +4155,11 @@
       "context_before": "all be adopted under the terms of Article 60(7), (8) and (9). The final decision shall refer to the decision referred to in paragraph 1 of this Article and shall specify that the decision referred to in that paragraph will be published on the website of the Board in accordance with paragraph 5 of this Article. The final decision shall attach the decision referred to in paragraph 1 of this Article."
     },
     {
-      "chunk_id": "GDPR-0279",
+      "chunk_id": "GDPR-0275",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 67",
+      "breadcrumb": "GDPR › REGULATIONS › Article 67",
       "heading": "Article 67",
-      "level": 1,
+      "level": 2,
       "pages": [
         76
       ],
@@ -4230,11 +4170,11 @@
       "context_before": "ed to act, in order to protect the rights and freedoms of data subjects, giving reasons for requesting such opinion or decision, including for the urgent need to act. 4.By derogation from Article 64(3) and Article 65(2), an urgent opinion or an urgent binding decision referred to in paragraphs 2 and 3 of this Article shall be adopted within two weeks by simple majority of the members of the Board."
     },
     {
-      "chunk_id": "GDPR-0280",
+      "chunk_id": "GDPR-0276",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 68",
+      "breadcrumb": "GDPR › REGULATIONS › Article 68",
       "heading": "Article 68",
-      "level": 1,
+      "level": 2,
       "pages": [
         76
       ],
@@ -4245,11 +4185,11 @@
       "context_before": "f general scope in order to specify the arrangements for the exchange of information by electronic means between supervisory authorities, and between supervisory authorities and the Board, in particular the standardised format referred to in Article 64. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 93(2). European data protection board"
     },
     {
-      "chunk_id": "GDPR-0281",
+      "chunk_id": "GDPR-0277",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 69",
+      "breadcrumb": "GDPR › REGULATIONS › Article 69",
       "heading": "Article 69",
-      "level": 1,
+      "level": 2,
       "pages": [
         76
       ],
@@ -4260,11 +4200,11 @@
       "context_before": "esignate a representative. The Chair of the Board shall communicate to the Commission the activities of the Board. 6.In the cases referred to in Article 65, the European Data Protection Supervisor shall have voting rights only on decisions which concern principles and rules applicable to the Union institutions, bodies, offices and agencies which correspond in substance to those of this Regulation."
     },
     {
-      "chunk_id": "GDPR-0282",
+      "chunk_id": "GDPR-0278",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 70",
+      "breadcrumb": "GDPR › REGULATIONS › Article 70",
       "heading": "Article 70",
-      "level": 1,
+      "level": 2,
       "pages": [
         76,
         77,
@@ -4277,11 +4217,11 @@
       "context_before": "Article 69\n\nIndependence 1.The Board shall act independently when performing its tasks or exercising its powers pursuant to Articles 70 and 71. 2.Without prejudice to requests by the Commission referred to in point (b) of Article 70(1) and in Article 70(2), the Board shall, in the performance of its tasks or the exercise of its powers, neither seek nor take instructions from anybody."
     },
     {
-      "chunk_id": "GDPR-0283",
+      "chunk_id": "GDPR-0279",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 70",
+      "breadcrumb": "GDPR › REGULATIONS › Article 70",
       "heading": "Article 70",
-      "level": 1,
+      "level": 2,
       "pages": [
         76,
         77,
@@ -4294,11 +4234,11 @@
       "context_before": "one or more specified sectors within that third country, or an international organisation no longer ensures an adequate level of protection. To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation."
     },
     {
-      "chunk_id": "GDPR-0284",
+      "chunk_id": "GDPR-0280",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 71",
+      "breadcrumb": "GDPR › REGULATIONS › Article 71",
       "heading": "Article 71",
-      "level": 1,
+      "level": 2,
       "pages": [
         78
       ],
@@ -4309,11 +4249,11 @@
       "context_before": "its opinions, guidelines, recommendations, and best practices to the Commission and to the committee referred to in Article 93 and make them public. 4.The Board shall, where appropriate, consult interested parties and give them the opportunity to comment within a reasonable period. The Board shall, without prejudice to Article 76, make the results of the consultation procedure publicly available."
     },
     {
-      "chunk_id": "GDPR-0285",
+      "chunk_id": "GDPR-0281",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 72",
+      "breadcrumb": "GDPR › REGULATIONS › Article 72",
       "heading": "Article 72",
-      "level": 1,
+      "level": 2,
       "pages": [
         78
       ],
@@ -4324,11 +4264,11 @@
       "context_before": "in third countries and international organisations. The report shall be made public and be transmitted to the European Parliament, to the Council and to the Commission. 2.The annual report shall include a review of the practical application of the guidelines, recommendations and best practices referred to in point (l) of Article 70(1) as well as of the binding decisions referred to in Article 65."
     },
     {
-      "chunk_id": "GDPR-0286",
+      "chunk_id": "GDPR-0282",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 73",
+      "breadcrumb": "GDPR › REGULATIONS › Article 73",
       "heading": "Article 73",
-      "level": 1,
+      "level": 2,
       "pages": [
         78
       ],
@@ -4339,11 +4279,11 @@
       "context_before": "Article 72\n\nProcedure 1.The Board shall take decisions by a simple majority of its members, unless otherwise provided for in this 2.The Board shall adopt its own rules of procedure by a two-thirds majority of its members and organise its own operational arrangements."
     },
     {
-      "chunk_id": "GDPR-0287",
+      "chunk_id": "GDPR-0283",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 74",
+      "breadcrumb": "GDPR › REGULATIONS › Article 74",
       "heading": "Article 74",
-      "level": 1,
+      "level": 2,
       "pages": [
         79
       ],
@@ -4354,11 +4294,11 @@
       "context_before": "Article 73\n\nChair 1.The Board shall elect a chair and two deputy chairs from amongst its members by simple majority. 2.The term of office of the Chair and of the deputy chairs shall be five years and be renewable once."
     },
     {
-      "chunk_id": "GDPR-0288",
+      "chunk_id": "GDPR-0284",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 75",
+      "breadcrumb": "GDPR › REGULATIONS › Article 75",
       "heading": "Article 75",
-      "level": 1,
+      "level": 2,
       "pages": [
         79
       ],
@@ -4369,11 +4309,11 @@
       "context_before": "otify decisions adopted by the Board pursuant to Article 65 to the lead supervisory authority and the supervisory authorities concerned; (c) to ensure the timely performance of the tasks of the Board, in particular in relation to the consistency mechanism referred to in Article 63. 2.The Board shall lay down the allocation of tasks between the Chair and the deputy chairs in its rules of procedure."
     },
     {
-      "chunk_id": "GDPR-0289",
+      "chunk_id": "GDPR-0285",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 76",
+      "breadcrumb": "GDPR › REGULATIONS › Article 76",
       "heading": "Article 76",
-      "level": 1,
+      "level": 2,
       "pages": [
         79,
         80
@@ -4385,11 +4325,11 @@
       "context_before": "ation with other institutions and the public; (d) the use of electronic means for the internal and external communication; (e) the translation of relevant information; (f) the preparation and follow-up of the meetings of the Board; (g) the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board."
     },
     {
-      "chunk_id": "GDPR-0290",
+      "chunk_id": "GDPR-0286",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER VIII",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER VIII",
       "heading": "CHAPTER VIII",
-      "level": 1,
+      "level": 2,
       "pages": [
         80
       ],
@@ -4400,11 +4340,11 @@
       "context_before": "Article 76\n\nConfidentiality 1.The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure.\n\n2.Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by Regulation (EC) No 1049/2001 of the European Parliament and of the Council (1)."
     },
     {
-      "chunk_id": "GDPR-0291",
+      "chunk_id": "GDPR-0287",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 77",
+      "breadcrumb": "GDPR › REGULATIONS › Article 77",
       "heading": "Article 77",
-      "level": 1,
+      "level": 2,
       "pages": [
         80
       ],
@@ -4415,11 +4355,11 @@
       "context_before": "CHAPTER VIII\n\nRemedies, liability and penalties"
     },
     {
-      "chunk_id": "GDPR-0292",
+      "chunk_id": "GDPR-0288",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 78",
+      "breadcrumb": "GDPR › REGULATIONS › Article 78",
       "heading": "Article 78",
-      "level": 1,
+      "level": 2,
       "pages": [
         80
       ],
@@ -4430,11 +4370,11 @@
       "context_before": "ual residence, place of work or place of the alleged infringement if the data subject considers that the processing of personal data relating to him or her infringes this Regulation. 2.The supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to Article 78."
     },
     {
-      "chunk_id": "GDPR-0293",
+      "chunk_id": "GDPR-0289",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 79",
+      "breadcrumb": "GDPR › REGULATIONS › Article 79",
       "heading": "Article 79",
-      "level": 1,
+      "level": 2,
       "pages": [
         80
       ],
@@ -4445,11 +4385,11 @@
       "context_before": "77. 3.Proceedings against a supervisory authority shall be brought before the courts of the Member State where the supervisory authority is established. 4.Where proceedings are brought against a decision of a supervisory authority which was preceded by an opinion or a decision of the Board in the consistency mechanism, the supervisory authority shall forward that opinion or decision to the court."
     },
     {
-      "chunk_id": "GDPR-0294",
+      "chunk_id": "GDPR-0290",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 80",
+      "breadcrumb": "GDPR › REGULATIONS › Article 80",
       "heading": "Article 80",
-      "level": 1,
+      "level": 2,
       "pages": [
         81
       ],
@@ -4460,11 +4400,11 @@
       "context_before": "the Member State where the data subject has his or her habitual residence, unless the controller or processor is a public authority of a Member State acting in the exercise of its public powers. (1) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43)."
     },
     {
-      "chunk_id": "GDPR-0295",
+      "chunk_id": "GDPR-0291",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 81",
+      "breadcrumb": "GDPR › REGULATIONS › Article 81",
       "heading": "Article 81",
-      "level": 1,
+      "level": 2,
       "pages": [
         81
       ],
@@ -4475,11 +4415,11 @@
       "context_before": "erred to in paragraph 1 of this Article, in­ dependently of a data subject's mandate, has the right to lodge, in that Member State, a complaint with the supervisory authority which is competent pursuant to Article 77 and to exercise the rights referred to in Articles 78 and 79 if it considers that the rights of a data subject under this Regulation have been infringed as a result of the processing."
     },
     {
-      "chunk_id": "GDPR-0296",
+      "chunk_id": "GDPR-0292",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 82",
+      "breadcrumb": "GDPR › REGULATIONS › Article 82",
       "heading": "Article 82",
-      "level": 1,
+      "level": 2,
       "pages": [
         81,
         82
@@ -4491,11 +4431,11 @@
       "context_before": "in another Member State, any competent court other than the court first seized may suspend its proceedings. 3.Where those proceedings are pending at first instance, any court other than the court first seized may also, on the application of one of the parties, decline jurisdiction if the court first seized has jurisdiction over the actions in question and its law permits the consolidation thereof."
     },
     {
-      "chunk_id": "GDPR-0297",
+      "chunk_id": "GDPR-0293",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 83",
+      "breadcrumb": "GDPR › REGULATIONS › Article 83",
       "heading": "Article 83",
-      "level": 1,
+      "level": 2,
       "pages": [
         82,
         83
@@ -4507,11 +4447,11 @@
       "context_before": "rom the other controllers or processors involved in the same processing that part of the compensation corresponding to their part of responsibility for the damage, in accordance with the conditions set out in paragraph 2.\n\n6.Court proceedings for exercising the right to receive compensation shall be brought before the courts competent under the law of the Member State referred to in Article 79(2)."
     },
     {
-      "chunk_id": "GDPR-0298",
+      "chunk_id": "GDPR-0294",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 84",
+      "breadcrumb": "GDPR › REGULATIONS › Article 84",
       "heading": "Article 84",
-      "level": 1,
+      "level": 2,
       "pages": [
         83
       ],
@@ -4522,11 +4462,11 @@
       "context_before": "fective and have an equivalent effect to the administrative fines imposed by supervisory authorities. In any event, the fines imposed shall be effective, proportionate and dissuasive. Those Member States shall notify to the Commission the provisions of their laws which they adopt pursuant to this paragraph by 25 May 2018 and, without delay, any subsequent amendment law or amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0299",
+      "chunk_id": "GDPR-0295",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER IX",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER IX",
       "heading": "CHAPTER IX",
-      "level": 1,
+      "level": 2,
       "pages": [
         83
       ],
@@ -4537,11 +4477,11 @@
       "context_before": "ch are not subject to administrative fines pursuant to Article 83, and shall take all measures necessary to ensure that they are implemented. Such penalties shall be effective, proportionate and dissuasive. 2.Each Member State shall notify to the Commission the provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0300",
+      "chunk_id": "GDPR-0296",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 85",
+      "breadcrumb": "GDPR › REGULATIONS › Article 85",
       "heading": "Article 85",
-      "level": 1,
+      "level": 2,
       "pages": [
         83,
         84
@@ -4553,11 +4493,11 @@
       "context_before": "CHAPTER IX\n\nProvisions relating to specific processing situations"
     },
     {
-      "chunk_id": "GDPR-0301",
+      "chunk_id": "GDPR-0297",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 86",
+      "breadcrumb": "GDPR › REGULATIONS › Article 86",
       "heading": "Article 86",
-      "level": 1,
+      "level": 2,
       "pages": [
         84
       ],
@@ -4568,11 +4508,11 @@
       "context_before": "on and consistency) and Chapter IX (specific data processing situations) if they are necessary to reconcile the right to the protection of personal data with the freedom of expression and information. 3.Each Member State shall notify to the Commission the provisions of its law which it has adopted pursuant to paragraph 2 and, without delay, any subsequent amendment law or amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0302",
+      "chunk_id": "GDPR-0298",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 87",
+      "breadcrumb": "GDPR › REGULATIONS › Article 87",
       "heading": "Article 87",
-      "level": 1,
+      "level": 2,
       "pages": [
         84
       ],
@@ -4583,11 +4523,11 @@
       "context_before": "held by a public authority or a public body or a private body for the performance of a task carried out in the public interest may be disclosed by the authority or body in accordance with Union or Member State law to which the public authority or body is subject in order to reconcile public access to official documents with the right to the protection of personal data pursuant to this Regulation."
     },
     {
-      "chunk_id": "GDPR-0303",
+      "chunk_id": "GDPR-0299",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 88",
+      "breadcrumb": "GDPR › REGULATIONS › Article 88",
       "heading": "Article 88",
-      "level": 1,
+      "level": 2,
       "pages": [
         84
       ],
@@ -4598,11 +4538,11 @@
       "context_before": "tification number Member States may further determine the specific conditions for the processing of a national identification number or any other identifier of general application. In that case the national identification number or any other identifier of general application shall be used only under appropriate safeguards for the rights and freedoms of the data subject pursuant to this Regulation."
     },
     {
-      "chunk_id": "GDPR-0304",
+      "chunk_id": "GDPR-0300",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 89",
+      "breadcrumb": "GDPR › REGULATIONS › Article 89",
       "heading": "Article 89",
-      "level": 1,
+      "level": 2,
       "pages": [
         84,
         85
@@ -4614,11 +4554,11 @@
       "context_before": "rd to the transparency of processing, the transfer of personal data within a group of undertakings, or a group of enterprises engaged in a joint economic activity and monitoring systems at the work place. 3.Each Member State shall notify to the Commission those provisions of its law which it adopts pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0305",
+      "chunk_id": "GDPR-0301",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 90",
+      "breadcrumb": "GDPR › REGULATIONS › Article 90",
       "heading": "Article 90",
-      "level": 1,
+      "level": 2,
       "pages": [
         85
       ],
@@ -4629,11 +4569,11 @@
       "context_before": "1 of this Article in so far as such rights are likely to render impossible or seriously impair the achievement of the specific purposes, and such derogations are necessary for the fulfilment of those purposes. 4.Where processing referred to in paragraphs 2 and 3 serves at the same time another purpose, the derogations shall apply only to processing for the purposes referred to in those paragraphs."
     },
     {
-      "chunk_id": "GDPR-0306",
+      "chunk_id": "GDPR-0302",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 91",
+      "breadcrumb": "GDPR › REGULATIONS › Article 91",
       "heading": "Article 91",
-      "level": 1,
+      "level": 2,
       "pages": [
         85
       ],
@@ -4644,11 +4584,11 @@
       "context_before": "nal data with the obligation of secrecy. Those rules shall apply only with regard to personal data which the controller or processor has received as a result of or has obtained in an activity covered by that obligation of secrecy. 2.Each Member State shall notify to the Commission the rules adopted pursuant to paragraph 1, by 25 May 2018 and, without delay, any subsequent amendment affecting them."
     },
     {
-      "chunk_id": "GDPR-0307",
+      "chunk_id": "GDPR-0303",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER X",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER X",
       "heading": "CHAPTER X",
-      "level": 1,
+      "level": 2,
       "pages": [
         85
       ],
@@ -4659,11 +4599,11 @@
       "context_before": "g, such rules may continue to apply, provided that they are brought into line with this Regulation. 2.Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 of this Article shall be subject to the supervision of an independent supervisory authority, which may be specific, provided that it fulfils the conditions laid down in Chapter VI of this Regulation."
     },
     {
-      "chunk_id": "GDPR-0308",
+      "chunk_id": "GDPR-0304",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 92",
+      "breadcrumb": "GDPR › REGULATIONS › Article 92",
       "heading": "Article 92",
-      "level": 1,
+      "level": 2,
       "pages": [
         85,
         86
@@ -4675,11 +4615,11 @@
       "context_before": "CHAPTER X\n\nDelegated acts and implementing acts"
     },
     {
-      "chunk_id": "GDPR-0309",
+      "chunk_id": "GDPR-0305",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 93",
+      "breadcrumb": "GDPR › REGULATIONS › Article 93",
       "heading": "Article 93",
-      "level": 1,
+      "level": 2,
       "pages": [
         86
       ],
@@ -4690,11 +4630,11 @@
       "context_before": "either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council."
     },
     {
-      "chunk_id": "GDPR-0310",
+      "chunk_id": "GDPR-0306",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › CHAPTER XI",
+      "breadcrumb": "GDPR › REGULATIONS › CHAPTER XI",
       "heading": "CHAPTER XI",
-      "level": 1,
+      "level": 2,
       "pages": [
         86
       ],
@@ -4705,11 +4645,11 @@
       "context_before": "93\n\nCommittee procedure 1.The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. 2.Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. 3.Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply."
     },
     {
-      "chunk_id": "GDPR-0311",
+      "chunk_id": "GDPR-0307",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 94",
+      "breadcrumb": "GDPR › REGULATIONS › Article 94",
       "heading": "Article 94",
-      "level": 1,
+      "level": 2,
       "pages": [
         86
       ],
@@ -4720,11 +4660,11 @@
       "context_before": "CHAPTER XI\n\nFinal provisions"
     },
     {
-      "chunk_id": "GDPR-0312",
+      "chunk_id": "GDPR-0308",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 95",
+      "breadcrumb": "GDPR › REGULATIONS › Article 95",
       "heading": "Article 95",
-      "level": 1,
+      "level": 2,
       "pages": [
         86
       ],
@@ -4735,11 +4675,11 @@
       "context_before": "ective 95/46/EC is repealed with effect from 25 May 2018. 2.References to the repealed Directive shall be construed as references to this Regulation. References to the Working Party on the Protection of Individuals with regard to the Processing of Personal Data established by Article 29 of Directive 95/46/EC shall be construed as references to the European Data Protection Board established by this"
     },
     {
-      "chunk_id": "GDPR-0313",
+      "chunk_id": "GDPR-0309",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 96",
+      "breadcrumb": "GDPR › REGULATIONS › Article 96",
       "heading": "Article 96",
-      "level": 1,
+      "level": 2,
       "pages": [
         87
       ],
@@ -4750,11 +4690,11 @@
       "context_before": "th Directive 2002/58/EC This Regulation shall not impose additional obligations on natural or legal persons in relation to processing in connection with the provision of publicly available electronic communications services in public communication networks in the Union in relation to matters for which they are subject to specific obligations with the same objective set out in Directive 2002/58/EC."
     },
     {
-      "chunk_id": "GDPR-0314",
+      "chunk_id": "GDPR-0310",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 97",
+      "breadcrumb": "GDPR › REGULATIONS › Article 97",
       "heading": "Article 97",
-      "level": 1,
+      "level": 2,
       "pages": [
         87
       ],
@@ -4765,11 +4705,11 @@
       "context_before": "Article 96\n\nRelationship with previously concluded Agreements International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016, and which comply with Union law as applicable prior to that date, shall remain in force until amended, replaced or revoked."
     },
     {
-      "chunk_id": "GDPR-0315",
+      "chunk_id": "GDPR-0311",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 98",
+      "breadcrumb": "GDPR › REGULATIONS › Article 98",
       "heading": "Article 98",
-      "level": 1,
+      "level": 2,
       "pages": [
         87
       ],
@@ -4780,16 +4720,16 @@
       "context_before": "s 1 and 2, the Commission shall take into account the positions and findings of the European Parliament, of the Council, and of other relevant bodies or sources. 5.The Commission shall, if necessary, submit appropriate proposals to amend this Regulation, in particular taking into account of developments in information technology and in the light of the state of progress in the information society."
     },
     {
-      "chunk_id": "GDPR-0316",
+      "chunk_id": "GDPR-0312",
       "doc_id": "GDPR",
-      "breadcrumb": "GDPR › Article 99",
+      "breadcrumb": "GDPR › REGULATIONS › Article 99",
       "heading": "Article 99",
-      "level": 1,
+      "level": 2,
       "pages": [
         87,
         88
       ],
-      "text": "Article 99\n\nEntry into force and application 1.This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 2.It shall apply from 25 May 2018.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels, 27 April 2016. For the European Parliament The President M. SCHULZ For the Council The President J.A. HENNIS-PLASSCHAERT 4.5.2016",
+      "text": "Article 99\n\nEntry into force and application 1.This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. 2.It shall apply from 25 May 2018.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels, 27 April 2016. For the European Parliament The President M. SCHULZ 4.5.2016 For the Council The President J.A. HENNIS-PLASSCHAERT",
       "char_count": 466,
       "part": 1,
       "part_count": 1,

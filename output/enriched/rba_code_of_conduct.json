@@ -1,0 +1,2820 @@
+{
+  "doc_id": "rba_code_of_conduct",
+  "chunk_count": 51,
+  "glossary_size": 9,
+  "section_index_size": 139,
+  "totals": {
+    "definition_attachments": 39,
+    "references_detected": 0,
+    "references_resolved": 0,
+    "references_unresolved": 0,
+    "references_ambiguous": 0
+  },
+  "glossary": {
+    "oecd": {
+      "term": "OECD",
+      "definition": "Organisation for Economic Co-operation and Development. Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and High-Risk Areas or an equivalent and recognized due diligence framework.",
+      "source_chunk_id": "rba_code_of_conduct-0035",
+      "kind": "acronym_paren"
+    },
+    "organisation for economic co-operation and development": {
+      "term": "Organisation for Economic Co-operation and Development",
+      "definition": "(OECD)",
+      "source_chunk_id": "rba_code_of_conduct-0035",
+      "kind": "acronym_expansion"
+    },
+    "participant": {
+      "term": "Participant",
+      "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+      "source_chunk_id": "rba_code_of_conduct-0002",
+      "kind": "quoted_alias"
+    },
+    "rba": {
+      "term": "RBA",
+      "definition": "The Responsible Business Alliance. Code of Conduct establishes standards that seek to promote that working conditions in supply chains are safe, and that business is conducted responsibly, ethically, and with respect for human rights and the environment.",
+      "source_chunk_id": "rba_code_of_conduct-0002",
+      "kind": "acronym_paren"
+    },
+    "sai": {
+      "term": "SAI",
+      "definition": "Social Accountability International",
+      "source_chunk_id": "rba_code_of_conduct-0050",
+      "kind": "acronym_paren"
+    },
+    "social accountability international": {
+      "term": "Social Accountability International",
+      "definition": "(SAI)",
+      "source_chunk_id": "rba_code_of_conduct-0050",
+      "kind": "acronym_expansion"
+    },
+    "the responsible business alliance": {
+      "term": "The Responsible Business Alliance",
+      "definition": "(RBA)",
+      "source_chunk_id": "rba_code_of_conduct-0002",
+      "kind": "acronym_expansion"
+    },
+    "un": {
+      "term": "UN",
+      "definition": "United Nations. Guiding Principles on Business and Human Rights • Universal Declaration of Human Rights • United Nations Convention Against Corruption • United Nations Convention on the Rights of the Child • United Nations Convention on the Elimination of",
+      "source_chunk_id": "rba_code_of_conduct-0050",
+      "kind": "acronym_paren"
+    },
+    "united nations": {
+      "term": "United Nations",
+      "definition": "(UN)",
+      "source_chunk_id": "rba_code_of_conduct-0050",
+      "kind": "acronym_expansion"
+    }
+  },
+  "section_index": {
+    "responsible business alliance code of conduct": {
+      "heading": "RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0002"
+      ],
+      "toc_title": null,
+      "char_count": 2477
+    },
+    "a. labor": {
+      "heading": "A. LABOR",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0003"
+      ],
+      "toc_title": null,
+      "char_count": 304
+    },
+    "labor": {
+      "heading": "A. LABOR",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0003"
+      ],
+      "toc_title": null,
+      "char_count": 304
+    },
+    "1 prohibition of forced labor": {
+      "heading": "1) Prohibition of Forced Labor",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 1) Prohibition of Forced Labor",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0004"
+      ],
+      "toc_title": null,
+      "char_count": 2107
+    },
+    "1) prohibition of forced labor": {
+      "heading": "1) Prohibition of Forced Labor",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 1) Prohibition of Forced Labor",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0004"
+      ],
+      "toc_title": null,
+      "char_count": 2107
+    },
+    "prohibition of forced labor": {
+      "heading": "1) Prohibition of Forced Labor",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 1) Prohibition of Forced Labor",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0004"
+      ],
+      "toc_title": null,
+      "char_count": 2107
+    },
+    "2) young workers": {
+      "heading": "2) Young Workers",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 2) Young Workers",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0005"
+      ],
+      "toc_title": null,
+      "char_count": 1210
+    },
+    "2 young workers": {
+      "heading": "2) Young Workers",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 2) Young Workers",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0005"
+      ],
+      "toc_title": null,
+      "char_count": 1210
+    },
+    "young workers": {
+      "heading": "2) Young Workers",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 2) Young Workers",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0005"
+      ],
+      "toc_title": null,
+      "char_count": 1210
+    },
+    "3) working hours": {
+      "heading": "3) Working Hours",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 3) Working Hours",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0006"
+      ],
+      "toc_title": null,
+      "char_count": 300
+    },
+    "3 working hours": {
+      "heading": "3) Working Hours",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 3) Working Hours",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0006"
+      ],
+      "toc_title": null,
+      "char_count": 300
+    },
+    "working hours": {
+      "heading": "3) Working Hours",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 3) Working Hours",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0006"
+      ],
+      "toc_title": null,
+      "char_count": 300
+    },
+    "4) wages and benefits": {
+      "heading": "4) Wages and Benefits",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 4) Wages and Benefits",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0007"
+      ],
+      "toc_title": null,
+      "char_count": 697
+    },
+    "4 wages and benefits": {
+      "heading": "4) Wages and Benefits",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 4) Wages and Benefits",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0007"
+      ],
+      "toc_title": null,
+      "char_count": 697
+    },
+    "wages and benefits": {
+      "heading": "4) Wages and Benefits",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 4) Wages and Benefits",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0007"
+      ],
+      "toc_title": null,
+      "char_count": 697
+    },
+    "5) non-discrimination/non-harassment/humane treatment": {
+      "heading": "5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0008"
+      ],
+      "toc_title": null,
+      "char_count": 1349
+    },
+    "5 non discrimination non harassment humane treatment": {
+      "heading": "5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0008"
+      ],
+      "toc_title": null,
+      "char_count": 1349
+    },
+    "non discrimination non harassment humane treatment": {
+      "heading": "5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0008"
+      ],
+      "toc_title": null,
+      "char_count": 1349
+    },
+    "6) freedom of association and collective bargaining": {
+      "heading": "6) Freedom of Association and Collective Bargaining",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 6) Freedom of Association and Collective Bargaining",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0009"
+      ],
+      "toc_title": null,
+      "char_count": 926
+    },
+    "6 freedom of association and collective bargaining": {
+      "heading": "6) Freedom of Association and Collective Bargaining",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 6) Freedom of Association and Collective Bargaining",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0009"
+      ],
+      "toc_title": null,
+      "char_count": 926
+    },
+    "freedom of association and collective bargaining": {
+      "heading": "6) Freedom of Association and Collective Bargaining",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 6) Freedom of Association and Collective Bargaining",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0009"
+      ],
+      "toc_title": null,
+      "char_count": 926
+    },
+    "b health and safety": {
+      "heading": "B. HEALTH AND SAFETY",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0010"
+      ],
+      "toc_title": null,
+      "char_count": 474
+    },
+    "b. health and safety": {
+      "heading": "B. HEALTH AND SAFETY",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0010"
+      ],
+      "toc_title": null,
+      "char_count": 474
+    },
+    "1) occupational health and safety": {
+      "heading": "1) Occupational Health and Safety",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 1) Occupational Health and Safety",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0011"
+      ],
+      "toc_title": null,
+      "char_count": 719
+    },
+    "1 occupational health and safety": {
+      "heading": "1) Occupational Health and Safety",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 1) Occupational Health and Safety",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0011"
+      ],
+      "toc_title": null,
+      "char_count": 719
+    },
+    "occupational health and safety": {
+      "heading": "1) Occupational Health and Safety",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 1) Occupational Health and Safety",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0011"
+      ],
+      "toc_title": null,
+      "char_count": 719
+    },
+    "2 emergency preparedness": {
+      "heading": "2) Emergency Preparedness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 2) Emergency Preparedness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0012"
+      ],
+      "toc_title": null,
+      "char_count": 714
+    },
+    "2) emergency preparedness": {
+      "heading": "2) Emergency Preparedness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 2) Emergency Preparedness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0012"
+      ],
+      "toc_title": null,
+      "char_count": 714
+    },
+    "emergency preparedness": {
+      "heading": "2) Emergency Preparedness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 2) Emergency Preparedness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0012"
+      ],
+      "toc_title": null,
+      "char_count": 714
+    },
+    "3) occupational injury and illness": {
+      "heading": "3) Occupational Injury and Illness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 3) Occupational Injury and Illness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0013"
+      ],
+      "toc_title": null,
+      "char_count": 561
+    },
+    "3 occupational injury and illness": {
+      "heading": "3) Occupational Injury and Illness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 3) Occupational Injury and Illness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0013"
+      ],
+      "toc_title": null,
+      "char_count": 561
+    },
+    "occupational injury and illness": {
+      "heading": "3) Occupational Injury and Illness",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 3) Occupational Injury and Illness",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0013"
+      ],
+      "toc_title": null,
+      "char_count": 561
+    },
+    "4) industrial hygiene": {
+      "heading": "4) Industrial Hygiene",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 4) Industrial Hygiene",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0014"
+      ],
+      "toc_title": null,
+      "char_count": 818
+    },
+    "4 industrial hygiene": {
+      "heading": "4) Industrial Hygiene",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 4) Industrial Hygiene",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0014"
+      ],
+      "toc_title": null,
+      "char_count": 818
+    },
+    "industrial hygiene": {
+      "heading": "4) Industrial Hygiene",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 4) Industrial Hygiene",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0014"
+      ],
+      "toc_title": null,
+      "char_count": 818
+    },
+    "5) physically demanding work": {
+      "heading": "5) Physically Demanding Work",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 5) Physically Demanding Work",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0015"
+      ],
+      "toc_title": null,
+      "char_count": 276
+    },
+    "5 physically demanding work": {
+      "heading": "5) Physically Demanding Work",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 5) Physically Demanding Work",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0015"
+      ],
+      "toc_title": null,
+      "char_count": 276
+    },
+    "physically demanding work": {
+      "heading": "5) Physically Demanding Work",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 5) Physically Demanding Work",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0015"
+      ],
+      "toc_title": null,
+      "char_count": 276
+    },
+    "6 machine safeguarding": {
+      "heading": "6) Machine Safeguarding",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 6) Machine Safeguarding",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0016"
+      ],
+      "toc_title": null,
+      "char_count": 232
+    },
+    "6) machine safeguarding": {
+      "heading": "6) Machine Safeguarding",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 6) Machine Safeguarding",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0016"
+      ],
+      "toc_title": null,
+      "char_count": 232
+    },
+    "machine safeguarding": {
+      "heading": "6) Machine Safeguarding",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 6) Machine Safeguarding",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0016"
+      ],
+      "toc_title": null,
+      "char_count": 232
+    },
+    "7 sanitation food and housing": {
+      "heading": "7) Sanitation, Food, and Housing",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 7) Sanitation, Food, and Housing",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0017"
+      ],
+      "toc_title": null,
+      "char_count": 586
+    },
+    "7) sanitation, food, and housing": {
+      "heading": "7) Sanitation, Food, and Housing",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 7) Sanitation, Food, and Housing",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0017"
+      ],
+      "toc_title": null,
+      "char_count": 586
+    },
+    "sanitation food and housing": {
+      "heading": "7) Sanitation, Food, and Housing",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 7) Sanitation, Food, and Housing",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0017"
+      ],
+      "toc_title": null,
+      "char_count": 586
+    },
+    "8 health and safety communication": {
+      "heading": "8) Health and Safety Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 8) Health and Safety Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0018"
+      ],
+      "toc_title": null,
+      "char_count": 837
+    },
+    "8) health and safety communication": {
+      "heading": "8) Health and Safety Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 8) Health and Safety Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0018"
+      ],
+      "toc_title": null,
+      "char_count": 837
+    },
+    "health and safety communication": {
+      "heading": "8) Health and Safety Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 8) Health and Safety Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0018"
+      ],
+      "toc_title": null,
+      "char_count": 837
+    },
+    "c environment": {
+      "heading": "C. ENVIRONMENT",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0019"
+      ],
+      "toc_title": null,
+      "char_count": 387
+    },
+    "c. environment": {
+      "heading": "C. ENVIRONMENT",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0019"
+      ],
+      "toc_title": null,
+      "char_count": 387
+    },
+    "1 environmental permits and reporting": {
+      "heading": "1) Environmental Permits and Reporting",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 1) Environmental Permits and Reporting",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0020"
+      ],
+      "toc_title": null,
+      "char_count": 248
+    },
+    "1) environmental permits and reporting": {
+      "heading": "1) Environmental Permits and Reporting",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 1) Environmental Permits and Reporting",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0020"
+      ],
+      "toc_title": null,
+      "char_count": 248
+    },
+    "environmental permits and reporting": {
+      "heading": "1) Environmental Permits and Reporting",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 1) Environmental Permits and Reporting",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0020"
+      ],
+      "toc_title": null,
+      "char_count": 248
+    },
+    "2) pollution prevention and resource conservation": {
+      "heading": "2) Pollution Prevention and Resource Conservation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 2) Pollution Prevention and Resource Conservation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0021"
+      ],
+      "toc_title": null,
+      "char_count": 568
+    },
+    "2 pollution prevention and resource conservation": {
+      "heading": "2) Pollution Prevention and Resource Conservation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 2) Pollution Prevention and Resource Conservation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0021"
+      ],
+      "toc_title": null,
+      "char_count": 568
+    },
+    "pollution prevention and resource conservation": {
+      "heading": "2) Pollution Prevention and Resource Conservation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 2) Pollution Prevention and Resource Conservation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0021"
+      ],
+      "toc_title": null,
+      "char_count": 568
+    },
+    "3) hazardous substances": {
+      "heading": "3) Hazardous Substances",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 3) Hazardous Substances",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0022"
+      ],
+      "toc_title": null,
+      "char_count": 292
+    },
+    "3 hazardous substances": {
+      "heading": "3) Hazardous Substances",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 3) Hazardous Substances",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0022"
+      ],
+      "toc_title": null,
+      "char_count": 292
+    },
+    "hazardous substances": {
+      "heading": "3) Hazardous Substances",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 3) Hazardous Substances",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0022"
+      ],
+      "toc_title": null,
+      "char_count": 292
+    },
+    "4 solid waste": {
+      "heading": "4) Solid Waste",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 4) Solid Waste",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0023"
+      ],
+      "toc_title": null,
+      "char_count": 206
+    },
+    "4) solid waste": {
+      "heading": "4) Solid Waste",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 4) Solid Waste",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0023"
+      ],
+      "toc_title": null,
+      "char_count": 206
+    },
+    "solid waste": {
+      "heading": "4) Solid Waste",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 4) Solid Waste",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0023"
+      ],
+      "toc_title": null,
+      "char_count": 206
+    },
+    "5 air emissions": {
+      "heading": "5) Air Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 5) Air Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0024"
+      ],
+      "toc_title": null,
+      "char_count": 507
+    },
+    "5) air emissions": {
+      "heading": "5) Air Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 5) Air Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0024"
+      ],
+      "toc_title": null,
+      "char_count": 507
+    },
+    "air emissions": {
+      "heading": "5) Air Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 5) Air Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0024"
+      ],
+      "toc_title": null,
+      "char_count": 507
+    },
+    "6 materials restrictions": {
+      "heading": "6) Materials Restrictions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 6) Materials Restrictions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0025"
+      ],
+      "toc_title": null,
+      "char_count": 257
+    },
+    "6) materials restrictions": {
+      "heading": "6) Materials Restrictions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 6) Materials Restrictions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0025"
+      ],
+      "toc_title": null,
+      "char_count": 257
+    },
+    "materials restrictions": {
+      "heading": "6) Materials Restrictions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 6) Materials Restrictions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0025"
+      ],
+      "toc_title": null,
+      "char_count": 257
+    },
+    "7 water management": {
+      "heading": "7) Water Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 7) Water Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0026"
+      ],
+      "toc_title": null,
+      "char_count": 525
+    },
+    "7) water management": {
+      "heading": "7) Water Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 7) Water Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0026"
+      ],
+      "toc_title": null,
+      "char_count": 525
+    },
+    "water management": {
+      "heading": "7) Water Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 7) Water Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0026"
+      ],
+      "toc_title": null,
+      "char_count": 525
+    },
+    "8) energy consumption and greenhouse gas emissions": {
+      "heading": "8) Energy Consumption and Greenhouse Gas Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 8) Energy Consumption and Greenhouse Gas Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0027"
+      ],
+      "toc_title": null,
+      "char_count": 449
+    },
+    "8 energy consumption and greenhouse gas emissions": {
+      "heading": "8) Energy Consumption and Greenhouse Gas Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 8) Energy Consumption and Greenhouse Gas Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0027"
+      ],
+      "toc_title": null,
+      "char_count": 449
+    },
+    "energy consumption and greenhouse gas emissions": {
+      "heading": "8) Energy Consumption and Greenhouse Gas Emissions",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 8) Energy Consumption and Greenhouse Gas Emissions",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0027"
+      ],
+      "toc_title": null,
+      "char_count": 449
+    },
+    "d. ethics": {
+      "heading": "D. ETHICS",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0028"
+      ],
+      "toc_title": null,
+      "char_count": 185
+    },
+    "d ethics": {
+      "heading": "D. ETHICS",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0028"
+      ],
+      "toc_title": null,
+      "char_count": 185
+    },
+    "1 business integrity": {
+      "heading": "1) Business Integrity",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 1) Business Integrity",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0029"
+      ],
+      "toc_title": null,
+      "char_count": 233
+    },
+    "1) business integrity": {
+      "heading": "1) Business Integrity",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 1) Business Integrity",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0029"
+      ],
+      "toc_title": null,
+      "char_count": 233
+    },
+    "business integrity": {
+      "heading": "1) Business Integrity",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 1) Business Integrity",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0029"
+      ],
+      "toc_title": null,
+      "char_count": 233
+    },
+    "2 no improper advantage": {
+      "heading": "2) No Improper Advantage",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 2) No Improper Advantage",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0030"
+      ],
+      "toc_title": null,
+      "char_count": 538
+    },
+    "2) no improper advantage": {
+      "heading": "2) No Improper Advantage",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 2) No Improper Advantage",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0030"
+      ],
+      "toc_title": null,
+      "char_count": 538
+    },
+    "no improper advantage": {
+      "heading": "2) No Improper Advantage",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 2) No Improper Advantage",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0030"
+      ],
+      "toc_title": null,
+      "char_count": 538
+    },
+    "3 disclosure of information": {
+      "heading": "3) Disclosure of Information",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 3) Disclosure of Information",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0031"
+      ],
+      "toc_title": null,
+      "char_count": 521
+    },
+    "3) disclosure of information": {
+      "heading": "3) Disclosure of Information",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 3) Disclosure of Information",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0031"
+      ],
+      "toc_title": null,
+      "char_count": 521
+    },
+    "disclosure of information": {
+      "heading": "3) Disclosure of Information",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 3) Disclosure of Information",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0031"
+      ],
+      "toc_title": null,
+      "char_count": 521
+    },
+    "4 intellectual property": {
+      "heading": "4) Intellectual Property",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 4) Intellectual Property",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0032"
+      ],
+      "toc_title": null,
+      "char_count": 240
+    },
+    "4) intellectual property": {
+      "heading": "4) Intellectual Property",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 4) Intellectual Property",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0032"
+      ],
+      "toc_title": null,
+      "char_count": 240
+    },
+    "intellectual property": {
+      "heading": "4) Intellectual Property",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 4) Intellectual Property",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0032"
+      ],
+      "toc_title": null,
+      "char_count": 240
+    },
+    "5) fair business, advertising and competition": {
+      "heading": "5) Fair Business, Advertising and Competition",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 5) Fair Business, Advertising and Competition",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0033"
+      ],
+      "toc_title": null,
+      "char_count": 120
+    },
+    "5 fair business advertising and competition": {
+      "heading": "5) Fair Business, Advertising and Competition",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 5) Fair Business, Advertising and Competition",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0033"
+      ],
+      "toc_title": null,
+      "char_count": 120
+    },
+    "fair business advertising and competition": {
+      "heading": "5) Fair Business, Advertising and Competition",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 5) Fair Business, Advertising and Competition",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0033"
+      ],
+      "toc_title": null,
+      "char_count": 120
+    },
+    "6) protection of identity and non-retaliation": {
+      "heading": "6) Protection of Identity and Non-Retaliation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 6) Protection of Identity and Non-Retaliation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0034"
+      ],
+      "toc_title": null,
+      "char_count": 517
+    },
+    "6 protection of identity and non retaliation": {
+      "heading": "6) Protection of Identity and Non-Retaliation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 6) Protection of Identity and Non-Retaliation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0034"
+      ],
+      "toc_title": null,
+      "char_count": 517
+    },
+    "protection of identity and non retaliation": {
+      "heading": "6) Protection of Identity and Non-Retaliation",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 6) Protection of Identity and Non-Retaliation",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0034"
+      ],
+      "toc_title": null,
+      "char_count": 517
+    },
+    "7) responsible sourcing of minerals": {
+      "heading": "7) Responsible Sourcing of Minerals",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 7) Responsible Sourcing of Minerals",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0035"
+      ],
+      "toc_title": null,
+      "char_count": 500
+    },
+    "7 responsible sourcing of minerals": {
+      "heading": "7) Responsible Sourcing of Minerals",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 7) Responsible Sourcing of Minerals",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0035"
+      ],
+      "toc_title": null,
+      "char_count": 500
+    },
+    "responsible sourcing of minerals": {
+      "heading": "7) Responsible Sourcing of Minerals",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 7) Responsible Sourcing of Minerals",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0035"
+      ],
+      "toc_title": null,
+      "char_count": 500
+    },
+    "8) privacy": {
+      "heading": "8) Privacy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 8) Privacy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0036"
+      ],
+      "toc_title": null,
+      "char_count": 385
+    },
+    "8 privacy": {
+      "heading": "8) Privacy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 8) Privacy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0036"
+      ],
+      "toc_title": null,
+      "char_count": 385
+    },
+    "privacy": {
+      "heading": "8) Privacy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 8) Privacy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0036"
+      ],
+      "toc_title": null,
+      "char_count": 385
+    },
+    "e. management systems": {
+      "heading": "E. MANAGEMENT SYSTEMS",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0037"
+      ],
+      "toc_title": null,
+      "char_count": 539
+    },
+    "e management systems": {
+      "heading": "E. MANAGEMENT SYSTEMS",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0037"
+      ],
+      "toc_title": null,
+      "char_count": 539
+    },
+    "1) company commitment": {
+      "heading": "1) Company Commitment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 1) Company Commitment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0038"
+      ],
+      "toc_title": null,
+      "char_count": 363
+    },
+    "1 company commitment": {
+      "heading": "1) Company Commitment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 1) Company Commitment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0038"
+      ],
+      "toc_title": null,
+      "char_count": 363
+    },
+    "company commitment": {
+      "heading": "1) Company Commitment",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 1) Company Commitment",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0038"
+      ],
+      "toc_title": null,
+      "char_count": 363
+    },
+    "2 management accountability and responsibility": {
+      "heading": "2) Management Accountability and Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 2) Management Accountability and Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0039"
+      ],
+      "toc_title": null,
+      "char_count": 305
+    },
+    "2) management accountability and responsibility": {
+      "heading": "2) Management Accountability and Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 2) Management Accountability and Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0039"
+      ],
+      "toc_title": null,
+      "char_count": 305
+    },
+    "management accountability and responsibility": {
+      "heading": "2) Management Accountability and Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 2) Management Accountability and Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0039"
+      ],
+      "toc_title": null,
+      "char_count": 305
+    },
+    "3) legal and customer requirements": {
+      "heading": "3) Legal and Customer Requirements",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 3) Legal and Customer Requirements",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0040"
+      ],
+      "toc_title": null,
+      "char_count": 217
+    },
+    "3 legal and customer requirements": {
+      "heading": "3) Legal and Customer Requirements",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 3) Legal and Customer Requirements",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0040"
+      ],
+      "toc_title": null,
+      "char_count": 217
+    },
+    "legal and customer requirements": {
+      "heading": "3) Legal and Customer Requirements",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 3) Legal and Customer Requirements",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0040"
+      ],
+      "toc_title": null,
+      "char_count": 217
+    },
+    "4 risk assessment and risk management": {
+      "heading": "4) Risk Assessment and Risk Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 4) Risk Assessment and Risk Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0041"
+      ],
+      "toc_title": null,
+      "char_count": 495
+    },
+    "4) risk assessment and risk management": {
+      "heading": "4) Risk Assessment and Risk Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 4) Risk Assessment and Risk Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0041"
+      ],
+      "toc_title": null,
+      "char_count": 495
+    },
+    "risk assessment and risk management": {
+      "heading": "4) Risk Assessment and Risk Management",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 4) Risk Assessment and Risk Management",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0041"
+      ],
+      "toc_title": null,
+      "char_count": 495
+    },
+    "5 improvement objectives": {
+      "heading": "5) Improvement Objectives",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 5) Improvement Objectives",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0042"
+      ],
+      "toc_title": null,
+      "char_count": 604
+    },
+    "5) improvement objectives": {
+      "heading": "5) Improvement Objectives",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 5) Improvement Objectives",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0042"
+      ],
+      "toc_title": null,
+      "char_count": 604
+    },
+    "improvement objectives": {
+      "heading": "5) Improvement Objectives",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 5) Improvement Objectives",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0042"
+      ],
+      "toc_title": null,
+      "char_count": 604
+    },
+    "6 training": {
+      "heading": "6) Training",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 6) Training",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0043"
+      ],
+      "toc_title": null,
+      "char_count": 218
+    },
+    "6) training": {
+      "heading": "6) Training",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 6) Training",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0043"
+      ],
+      "toc_title": null,
+      "char_count": 218
+    },
+    "training": {
+      "heading": "6) Training",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 6) Training",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0043"
+      ],
+      "toc_title": null,
+      "char_count": 218
+    },
+    "7 communication": {
+      "heading": "7) Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 7) Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0044"
+      ],
+      "toc_title": null,
+      "char_count": 212
+    },
+    "7) communication": {
+      "heading": "7) Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 7) Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0044"
+      ],
+      "toc_title": null,
+      "char_count": 212
+    },
+    "communication": {
+      "heading": "7) Communication",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 7) Communication",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0044"
+      ],
+      "toc_title": null,
+      "char_count": 212
+    },
+    "8) worker/stakeholder engagement and access to remedy": {
+      "heading": "8) Worker/Stakeholder Engagement and Access To Remedy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 8) Worker/Stakeholder Engagement and Access To Remedy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0045"
+      ],
+      "toc_title": null,
+      "char_count": 474
+    },
+    "8 worker stakeholder engagement and access to remedy": {
+      "heading": "8) Worker/Stakeholder Engagement and Access To Remedy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 8) Worker/Stakeholder Engagement and Access To Remedy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0045"
+      ],
+      "toc_title": null,
+      "char_count": 474
+    },
+    "worker stakeholder engagement and access to remedy": {
+      "heading": "8) Worker/Stakeholder Engagement and Access To Remedy",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 8) Worker/Stakeholder Engagement and Access To Remedy",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0045"
+      ],
+      "toc_title": null,
+      "char_count": 474
+    },
+    "9) audits and assessments": {
+      "heading": "9) Audits and Assessments",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 9) Audits and Assessments",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0046"
+      ],
+      "toc_title": null,
+      "char_count": 253
+    },
+    "9 audits and assessments": {
+      "heading": "9) Audits and Assessments",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 9) Audits and Assessments",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0046"
+      ],
+      "toc_title": null,
+      "char_count": 253
+    },
+    "audits and assessments": {
+      "heading": "9) Audits and Assessments",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 9) Audits and Assessments",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0046"
+      ],
+      "toc_title": null,
+      "char_count": 253
+    },
+    "10 corrective action process": {
+      "heading": "10) Corrective Action Process",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 10) Corrective Action Process",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0047"
+      ],
+      "toc_title": null,
+      "char_count": 197
+    },
+    "10) corrective action process": {
+      "heading": "10) Corrective Action Process",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 10) Corrective Action Process",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0047"
+      ],
+      "toc_title": null,
+      "char_count": 197
+    },
+    "corrective action process": {
+      "heading": "10) Corrective Action Process",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 10) Corrective Action Process",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0047"
+      ],
+      "toc_title": null,
+      "char_count": 197
+    },
+    "11) documentation and records": {
+      "heading": "11) Documentation and Records",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 11) Documentation and Records",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0048"
+      ],
+      "toc_title": null,
+      "char_count": 221
+    },
+    "11 documentation and records": {
+      "heading": "11) Documentation and Records",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 11) Documentation and Records",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0048"
+      ],
+      "toc_title": null,
+      "char_count": 221
+    },
+    "documentation and records": {
+      "heading": "11) Documentation and Records",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 11) Documentation and Records",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0048"
+      ],
+      "toc_title": null,
+      "char_count": 221
+    },
+    "12) supplier responsibility": {
+      "heading": "12) Supplier Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 12) Supplier Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0049"
+      ],
+      "toc_title": null,
+      "char_count": 161
+    },
+    "12 supplier responsibility": {
+      "heading": "12) Supplier Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 12) Supplier Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0049"
+      ],
+      "toc_title": null,
+      "char_count": 161
+    },
+    "supplier responsibility": {
+      "heading": "12) Supplier Responsibility",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 12) Supplier Responsibility",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0049"
+      ],
+      "toc_title": null,
+      "char_count": 161
+    },
+    "references": {
+      "heading": "REFERENCES",
+      "breadcrumb": "RBA › REFERENCES",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0050"
+      ],
+      "toc_title": null,
+      "char_count": 1788
+    },
+    "document history": {
+      "heading": "DOCUMENT HISTORY",
+      "breadcrumb": "RBA › DOCUMENT HISTORY",
+      "source_chunk_ids": [
+        "rba_code_of_conduct-0051"
+      ],
+      "toc_title": null,
+      "char_count": 1141
+    }
+  },
+  "chunks": [
+    {
+      "chunk_id": "rba_code_of_conduct-0001",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA",
+      "heading": null,
+      "level": null,
+      "pages": [
+        1
+      ],
+      "text": "Version 8.0.1 (2025)",
+      "char_count": 20,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0002",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT",
+      "heading": "RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT",
+      "level": 1,
+      "pages": [
+        1
+      ],
+      "text": "RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT\n\nThe Responsible Business Alliance (RBA) Code of Conduct establishes standards that seek to promote that working conditions in supply chains are safe, and that business is conducted responsibly, ethically, and with respect for human rights and the environment. The Code may be voluntarily adopted by any business and subsequently applied by that business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. While it is recommended to review the Code as a total Supply Chain Initiative, at a minimum, participants should require their next tier suppliers to acknowledge and implement the code. Fundamental to adopting the Code is the understanding that a business, in all of its activities, must operate in full compliance with applicable laws, rules, and regulations1. In alignment with internationally recognized standards as listed under the References of this document, and drawing upon best practices in global supply chains, elements of this Code may go beyond legal compliance in order to advance social and environmental responsibility and business ethics. In no case can complying with the Code violate applicable laws. If, however, there are differing standards between the RBA Code and applicable laws, the RBA defines conformance as meeting the strictest requirements. The provisions of this Code are derived from and respect internationally recognized standards including: OECD Guidelines for Multinational Enterprises • UN Guiding Principles on Business and Human Rights • ILO Declaration on Fundamental Principles and Rights at Work • ILO Fundamental Conventions • UN Universal Declaration of Human Rights • The Code is made up of five sections: Sections A, B, and C: Standards for Labor, Health and Safety, and the Environment, • respectively. Section D: Standards relating to business ethics. • Section E: Elements of an acceptable system to manage conformity to this Code. • The RBA is committed to obtaining regular input from stakeholders in the continued development and implementation of the Code of Conduct.\n\n> **Footnote 1:** 1 The Code is not intended to create new and additional third-party rights, including for workers.",
+      "char_count": 2477,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "Version 8.0.1 (2025)",
+      "attached_definitions": [
+        {
+          "term": "UN",
+          "definition": "United Nations. Guiding Principles on Business and Human Rights • Universal Declaration of Human Rights • United Nations Convention Against Corruption • United Nations Convention on the Rights of the Child • United Nations Convention on the Elimination of",
+          "source_chunk_id": "rba_code_of_conduct-0050",
+          "method": "glossary_lookup"
+        },
+        {
+          "term": "OECD",
+          "definition": "Organisation for Economic Co-operation and Development. Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and High-Risk Areas or an equivalent and recognized due diligence framework.",
+          "source_chunk_id": "rba_code_of_conduct-0035",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 2,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0003",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR",
+      "heading": "A. LABOR",
+      "level": 2,
+      "pages": [
+        2
+      ],
+      "text": "A. LABOR\n\nParticipants commit to respect the human rights of workers, and to treat them with dignity. This applies to direct and indirect suppliers, as well as all workers including temporary, migrant, student, contract, direct employees, and any other type of worker. The labor standards are as follows:",
+      "char_count": 304,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "spectively. Section D: Standards relating to business ethics. • Section E: Elements of an acceptable system to manage conformity to this Code. • The RBA is committed to obtaining regular input from stakeholders in the continued development and implementation of the Code of Conduct.\n\n> **Footnote 1:** 1 The Code is not intended to create new and additional third-party rights, including for workers.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0004",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 1) Prohibition of Forced Labor",
+      "heading": "1) Prohibition of Forced Labor",
+      "level": 3,
+      "pages": [
+        2
+      ],
+      "text": "1) Prohibition of Forced Labor\n\nForced labor in any form, including but not limited to, bonded (including debt bondage) or indentured labor, involuntary or exploitative prison labor, slavery or trafficking of persons is not permitted. This includes transporting, harboring, recruiting, transferring, or receiving persons by means of threat, force, coercion, abduction or fraud for labor or services. There shall be no unreasonable restrictions on workers’ freedom of movement in the facility in addition to unreasonable restrictions on entering or exiting company- provided facilities including, if applicable, workers’ dormitories or living quarters. As part of the hiring process, all workers must be provided with a written employment agreement in their native language, or in a language the worker can understand, that contains a description of terms and conditions of employment. Foreign migrant workers must receive the employment agreement prior to the worker departing from his or her country of origin and there shall be no substitution or change(s) allowed in the employment agreement upon arrival in the receiving country unless these changes are made to meet local law and provide equal or better terms. All work shall be voluntary, and workers shall be free to leave work at any time or terminate their employment without penalty if reasonable notice is given, which shall be clearly stated in workers’ contracts. Participants shall maintain documentation on all leaving workers. Employers, agents, and sub-agents’ may not hold or otherwise destroy, conceal, or confiscate identity or immigration documents, such as government-issued identification, passports, or work permits. Notwithstanding the foregoing, employers can only hold documentation if necessary to comply with the local law. In this case, at no time shall workers be denied access to their documents. Workers shall not be required to pay employers’ agents or sub-agents’ recruitment fees or other related fees for their employment. If any such fees are found to have been paid by workers, such fees shall be repaid to the worker.",
+      "char_count": 2107,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "A. LABOR\n\nParticipants commit to respect the human rights of workers, and to treat them with dignity. This applies to direct and indirect suppliers, as well as all workers including temporary, migrant, student, contract, direct employees, and any other type of worker. The labor standards are as follows:",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0005",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 2) Young Workers",
+      "heading": "2) Young Workers",
+      "level": 3,
+      "pages": [
+        2
+      ],
+      "text": "2) Young Workers\n\nChild labor shall not be used in any stage of manufacturing. The term “child” refers to any person under the age of 15, or under the age for completing compulsory education, or under the minimum age for employment in the country, whichever is greatest. Workers under the age of 18 (Young Workers) shall not perform work that is likely to jeopardize their health or safety, including night shifts and overtime. Participants shall ensure proper management of student workers through proper maintenance of student records, rigorous due diligence of educational partners, and protection of students’ rights in accordance with applicable laws and regulations. Participants shall implement an appropriate mechanism to verify the age of workers. The use of legitimate workplace learning programs, which comply with all laws and regulations, is supported. Participants shall provide appropriate support and training toall student workers. In the absence of local law, the wage rate for student workers, interns, and apprentices shall be at least the same wage rate as other entry-level workers performing equal or similar tasks. If child labor is identified, assistance/remediation shall be provided.",
+      "char_count": 1210,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "the foregoing, employers can only hold documentation if necessary to comply with the local law. In this case, at no time shall workers be denied access to their documents. Workers shall not be required to pay employers’ agents or sub-agents’ recruitment fees or other related fees for their employment. If any such fees are found to have been paid by workers, such fees shall be repaid to the worker.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0006",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 3) Working Hours",
+      "heading": "3) Working Hours",
+      "level": 3,
+      "pages": [
+        3
+      ],
+      "text": "3) Working Hours\n\nWorking hours shall not exceed the maximum set by local law. Further, a workweek shall not be more than 60 hours per week, including overtime, except in emergency or unusual situations. All overtime shall be voluntary. Workers shall be allowed at least one day off every seven days.",
+      "char_count": 300,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "ich comply with all laws and regulations, is supported. Participants shall provide appropriate support and training toall student workers. In the absence of local law, the wage rate for student workers, interns, and apprentices shall be at least the same wage rate as other entry-level workers performing equal or similar tasks. If child labor is identified, assistance/remediation shall be provided.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0007",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 4) Wages and Benefits",
+      "heading": "4) Wages and Benefits",
+      "level": 3,
+      "pages": [
+        3
+      ],
+      "text": "4) Wages and Benefits\n\nCompensation paid to workers shall comply with all applicable wage laws, including those relating to minimum wages, overtime hours and legally mandated benefits. All workers shall receive equal pay for equal work and qualification. Workers shall be compensated for overtime at pay rates greater than regular hourly rates. Deductions from wages as a disciplinary measure shall not be permitted. For each pay period, workers shall be provided with a timely and understandable wage statement that includes sufficient information to verify accurate compensation for work performed. All use of temporary, dispatch and outsourced labor shall be within the limits of the local law.",
+      "char_count": 697,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "3) Working Hours\n\nWorking hours shall not exceed the maximum set by local law. Further, a workweek shall not be more than 60 hours per week, including overtime, except in emergency or unusual situations. All overtime shall be voluntary. Workers shall be allowed at least one day off every seven days.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0008",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "heading": "5) Non-Discrimination/Non-Harassment/Humane Treatment",
+      "level": 3,
+      "pages": [
+        3
+      ],
+      "text": "5) Non-Discrimination/Non-Harassment/Humane Treatment\n\nParticipants shall commit to a workplace free of harassment and unlawful discrimination. There shall be no harsh or inhumane treatment including violence, gender-based violence, sexual harassment, sexual abuse, corporal punishment, mental or physical coercion, bullying, public shaming, or verbal abuse of workers; nor is there to be the threat of any such treatment. Companies shall not engage in discrimination or harassment based on race, color, age, gender, sexual orientation, gender identity or expression, ethnicity or national origin, disability, pregnancy, religion, political affiliation, union membership, covered veteran status, protected genetic information or marital status in hiring and employment practices such as wages, promotions, rewards, and access to training. Disciplinary policies and procedures in support of these requirements shall be clearly defined and communicated to workers. Workers shall be provided with reasonable accommodation for religious practices and disability. In addition, workers or potential workers should not be subjected to medical tests, including pregnancy or virginity tests, or physical exams that could be used in a discriminatory way. This was drafted in consideration of ILO Discrimination (Employment and Occupation) Convention (No.111).",
+      "char_count": 1349,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "at pay rates greater than regular hourly rates. Deductions from wages as a disciplinary measure shall not be permitted. For each pay period, workers shall be provided with a timely and understandable wage statement that includes sufficient information to verify accurate compensation for work performed. All use of temporary, dispatch and outsourced labor shall be within the limits of the local law.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0009",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › A. LABOR › 6) Freedom of Association and Collective Bargaining",
+      "heading": "6) Freedom of Association and Collective Bargaining",
+      "level": 3,
+      "pages": [
+        3
+      ],
+      "text": "6) Freedom of Association and Collective Bargaining\n\nOpen communication and direct engagement between workers and management are the most effective ways to resolve workplace and compensation issues. Workers and/or their representatives shall be able to openly communicate and share ideas and concerns with management regarding working conditions and management practices without fear of discrimination, reprisal, intimidation, or harassment. In alignment with these principles, participants shall respect the right of all workers to form and join trade unions of their own choosing, to bargain collectively, and to engage in peaceful assembly as well as respect the right of workers to refrain from such activities. Where the right of freedom of association and collective bargaining is restricted by applicable laws and regulations, workers shall be allowed to elect and join alternate lawful forms of worker representations.",
+      "char_count": 926,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "d to workers. Workers shall be provided with reasonable accommodation for religious practices and disability. In addition, workers or potential workers should not be subjected to medical tests, including pregnancy or virginity tests, or physical exams that could be used in a discriminatory way. This was drafted in consideration of ILO Discrimination (Employment and Occupation) Convention (No.111).",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0010",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY",
+      "heading": "B. HEALTH AND SAFETY",
+      "level": 2,
+      "pages": [
+        4
+      ],
+      "text": "B. HEALTH AND SAFETY\n\nParticipants recognize that in addition to minimizing the incidence of work-related injuries and illnesses, a safe and healthy working environment enhances the quality of products and services, consistency of production and worker retention and morale. Participants also recognize that ongoing worker input and education are essential to identifying and solving health and safety issues in the workplace. The health and safety standards are as follows:",
+      "char_count": 474,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "ers to form and join trade unions of their own choosing, to bargain collectively, and to engage in peaceful assembly as well as respect the right of workers to refrain from such activities. Where the right of freedom of association and collective bargaining is restricted by applicable laws and regulations, workers shall be allowed to elect and join alternate lawful forms of worker representations.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0011",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 1) Occupational Health and Safety",
+      "heading": "1) Occupational Health and Safety",
+      "level": 3,
+      "pages": [
+        4
+      ],
+      "text": "1) Occupational Health and Safety\n\nWorker potential for exposure to health and safety hazards (chemical, electrical and other energy sources, fire, vehicles, and fall hazards, etc.) shall be identified and assessed, mitigated using the Hierarchy of Controls. Where hazards cannot be adequately controlled by these means, workers shall be provided with appropriate, well-maintained, personal protective equipment, and educational materials about risks to them associated with these hazards. Gender-responsive measures shall be taken, such as not having pregnant women and nursing mothers in working conditions, which could be hazardous to them or their child and to provide reasonable accommodations for nursing mothers.",
+      "char_count": 719,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "g the incidence of work-related injuries and illnesses, a safe and healthy working environment enhances the quality of products and services, consistency of production and worker retention and morale. Participants also recognize that ongoing worker input and education are essential to identifying and solving health and safety issues in the workplace. The health and safety standards are as follows:",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0012",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 2) Emergency Preparedness",
+      "heading": "2) Emergency Preparedness",
+      "level": 3,
+      "pages": [
+        4
+      ],
+      "text": "2) Emergency Preparedness\n\nPotential emergency situations and events shall be identified and assessed, and their impact minimized by implementing emergency plans and response procedures including emergency reporting, employee notification and evacuation procedures, worker training, and drills. Emergency drills shall be executed at least annually or as required by local law, whichever is more stringent. Emergency plans shall also include appropriate fire detection and suppression equipment, clear and unobstructed egress, adequate exit facilities, contact information for emergency responders, and recovery plans. Such plans and procedures shall focus on minimizing harm to life, the environment, and property.",
+      "char_count": 714,
+      "part": 1,
+      "part_count": 1,
+      "context_before": ", workers shall be provided with appropriate, well-maintained, personal protective equipment, and educational materials about risks to them associated with these hazards. Gender-responsive measures shall be taken, such as not having pregnant women and nursing mothers in working conditions, which could be hazardous to them or their child and to provide reasonable accommodations for nursing mothers.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0013",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 3) Occupational Injury and Illness",
+      "heading": "3) Occupational Injury and Illness",
+      "level": 3,
+      "pages": [
+        4
+      ],
+      "text": "3) Occupational Injury and Illness\n\nProcedures and systems shall be in place to prevent, manage, track and report occupational injuries and illnesses, including provisions to encourage worker reporting, classify and record injury and illness cases, provide necessary medical treatment, investigate cases and implement corrective actions to eliminate their causes, and facilitate the return of workers to work. Participants shall allow workers to remove themselves from imminent harm, and not return until the situation is mitigated, without fear of retaliation.",
+      "char_count": 561,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "all be executed at least annually or as required by local law, whichever is more stringent. Emergency plans shall also include appropriate fire detection and suppression equipment, clear and unobstructed egress, adequate exit facilities, contact information for emergency responders, and recovery plans. Such plans and procedures shall focus on minimizing harm to life, the environment, and property.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0014",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 4) Industrial Hygiene",
+      "heading": "4) Industrial Hygiene",
+      "level": 3,
+      "pages": [
+        4
+      ],
+      "text": "4) Industrial Hygiene\n\nWorker exposure to chemical, biological, and physical agents shall be identified, evaluated, and controlled according to the Hierarchy of Controls. When hazards cannot be adequately controlled, workers shall be provided with and use appropriate, well-maintained, personal protective equipment free of charge. Participants shall provide workers with safe and healthy working environments, which shall be maintained through ongoing, systematic monitoring of workers’ health and working environments. Participants shall provide occupational health monitoring to routinely evaluate if workers’ health is being harmed from occupational exposures. Protective occupational health programs shall be ongoing and include educational materials about the risks associated with exposure to workplace hazards.",
+      "char_count": 818,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "provisions to encourage worker reporting, classify and record injury and illness cases, provide necessary medical treatment, investigate cases and implement corrective actions to eliminate their causes, and facilitate the return of workers to work. Participants shall allow workers to remove themselves from imminent harm, and not return until the situation is mitigated, without fear of retaliation.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0015",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 5) Physically Demanding Work",
+      "heading": "5) Physically Demanding Work",
+      "level": 3,
+      "pages": [
+        5
+      ],
+      "text": "5) Physically Demanding Work\n\nWorker exposure to the hazards of physically demanding tasks, including manual material handling and heavy or repetitive lifting, prolonged standing, and highly repetitive or forceful assembly tasks shall be identified, evaluated, and controlled.",
+      "char_count": 276,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "hall be maintained through ongoing, systematic monitoring of workers’ health and working environments. Participants shall provide occupational health monitoring to routinely evaluate if workers’ health is being harmed from occupational exposures. Protective occupational health programs shall be ongoing and include educational materials about the risks associated with exposure to workplace hazards.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0016",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 6) Machine Safeguarding",
+      "heading": "6) Machine Safeguarding",
+      "level": 3,
+      "pages": [
+        5
+      ],
+      "text": "6) Machine Safeguarding\n\nProduction and other machinery shall be evaluated for safety hazards. Physical guards, interlocks, and barriers shall be provided and properly maintained where machinery presents an injury hazard to workers.",
+      "char_count": 232,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "5) Physically Demanding Work\n\nWorker exposure to the hazards of physically demanding tasks, including manual material handling and heavy or repetitive lifting, prolonged standing, and highly repetitive or forceful assembly tasks shall be identified, evaluated, and controlled.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0017",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 7) Sanitation, Food, and Housing",
+      "heading": "7) Sanitation, Food, and Housing",
+      "level": 3,
+      "pages": [
+        5
+      ],
+      "text": "7) Sanitation, Food, and Housing\n\nWorkers shall be provided with ready access to clean toilet facilities, potable water and sanitary food preparation, storage, and eating facilities. Worker dormitories provided by the Participant or a labor agent shall be maintained to be clean and safe, and provided with appropriate emergency egress, hot water for bathing and showering, adequate lighting, and adequate conditioned ventilation, individually secured accommodations for storing personal and valuable items, and reasonable personal space along with reasonable entry and exit privileges.",
+      "char_count": 586,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "6) Machine Safeguarding\n\nProduction and other machinery shall be evaluated for safety hazards. Physical guards, interlocks, and barriers shall be provided and properly maintained where machinery presents an injury hazard to workers.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0018",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › B. HEALTH AND SAFETY › 8) Health and Safety Communication",
+      "heading": "8) Health and Safety Communication",
+      "level": 3,
+      "pages": [
+        5
+      ],
+      "text": "8) Health and Safety Communication\n\nParticipants shall provide workers with appropriate workplace health and safety information and training in the language of the worker or in a language the worker can understand for all identified workplace hazards that workers are exposed to, including but not limited to mechanical, electrical, chemical, fire, and physical hazards. Health and safety related information shall be clearly posted in the facility or placed in a location identifiable and accessible by workers. Health information and training shall include content on specific risks to relevant demographics, such as gender and age, if applicable. Training shall be provided to all workers prior to the beginning of work and regularly thereafter. Workers shall be encouraged to raise any health and safety concerns without retaliation.",
+      "char_count": 837,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "ker dormitories provided by the Participant or a labor agent shall be maintained to be clean and safe, and provided with appropriate emergency egress, hot water for bathing and showering, adequate lighting, and adequate conditioned ventilation, individually secured accommodations for storing personal and valuable items, and reasonable personal space along with reasonable entry and exit privileges.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0019",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT",
+      "heading": "C. ENVIRONMENT",
+      "level": 2,
+      "pages": [
+        6
+      ],
+      "text": "C. ENVIRONMENT\n\nAcross all business functions, Participants recognize that environmental responsibility is integral to producing world-class products. Participants shall identify the environmental impacts and minimize adverse effects on the community, environment, and natural resources, while safeguarding the health and safety of the public. The environmental standards are as follows:",
+      "char_count": 387,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "he facility or placed in a location identifiable and accessible by workers. Health information and training shall include content on specific risks to relevant demographics, such as gender and age, if applicable. Training shall be provided to all workers prior to the beginning of work and regularly thereafter. Workers shall be encouraged to raise any health and safety concerns without retaliation.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0020",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 1) Environmental Permits and Reporting",
+      "heading": "1) Environmental Permits and Reporting",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "1) Environmental Permits and Reporting\n\nAll required environmental permits (e.g. discharge monitoring), approvals, and registrations shall be obtained, maintained, and kept current and their operational and reporting requirements shall be followed.",
+      "char_count": 248,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "C. ENVIRONMENT\n\nAcross all business functions, Participants recognize that environmental responsibility is integral to producing world-class products. Participants shall identify the environmental impacts and minimize adverse effects on the community, environment, and natural resources, while safeguarding the health and safety of the public. The environmental standards are as follows:",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0021",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 2) Pollution Prevention and Resource Conservation",
+      "heading": "2) Pollution Prevention and Resource Conservation",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "2) Pollution Prevention and Resource Conservation\n\nEmissions and discharges of pollutants and generation of waste shall be minimized or eliminated at the source or by practices such as adding pollution control equipment; modifying production, maintenance, and facility processes; or by other means. The use of natural resources, including water, fossil fuels, minerals, and virgin forest products, shall be conserved by practices such as modifying production, maintenance and facility processes, materials substitution, re-use, conservation, recycling, or other means.",
+      "char_count": 568,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "1) Environmental Permits and Reporting\n\nAll required environmental permits (e.g. discharge monitoring), approvals, and registrations shall be obtained, maintained, and kept current and their operational and reporting requirements shall be followed.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0022",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 3) Hazardous Substances",
+      "heading": "3) Hazardous Substances",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "3) Hazardous Substances\n\nChemicals, waste, and other materials posing a hazard to humans or the environment shall be identified, labeled, and managed to ensure their safe handling, movement, storage, use, recycling or reuse, and disposal. Hazardous waste data shall be tracked and documented.",
+      "char_count": 292,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "ractices such as adding pollution control equipment; modifying production, maintenance, and facility processes; or by other means. The use of natural resources, including water, fossil fuels, minerals, and virgin forest products, shall be conserved by practices such as modifying production, maintenance and facility processes, materials substitution, re-use, conservation, recycling, or other means.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0023",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 4) Solid Waste",
+      "heading": "4) Solid Waste",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "4) Solid Waste\n\nParticipants shall implement a systematic approach to identify, manage, reduce, and responsibly dispose of or recycle solid waste (non-hazardous). Waste data shall be tracked and documented.",
+      "char_count": 206,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "3) Hazardous Substances\n\nChemicals, waste, and other materials posing a hazard to humans or the environment shall be identified, labeled, and managed to ensure their safe handling, movement, storage, use, recycling or reuse, and disposal. Hazardous waste data shall be tracked and documented.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0024",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 5) Air Emissions",
+      "heading": "5) Air Emissions",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "5) Air Emissions\n\nAir emissions of volatile organic chemicals, aerosols, corrosives, particulates, ozone depleting substances, and combustion byproducts generated from operations shall be characterized, routinely monitored, controlled, and treated as required prior to discharge. Ozone- depleting substances shall be effectively managed in accordance with the Montreal Protocol and applicable regulations. Participants shall conduct routine monitoring of the performance of its air emission control systems.",
+      "char_count": 507,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "4) Solid Waste\n\nParticipants shall implement a systematic approach to identify, manage, reduce, and responsibly dispose of or recycle solid waste (non-hazardous). Waste data shall be tracked and documented.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0025",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 6) Materials Restrictions",
+      "heading": "6) Materials Restrictions",
+      "level": 3,
+      "pages": [
+        6
+      ],
+      "text": "6) Materials Restrictions\n\nParticipants shall adhere to all applicable laws, regulations, and customer requirements regarding the prohibition or restriction of specific substances in products and manufacturing, including labeling for recycling and disposal.",
+      "char_count": 257,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "pleting substances, and combustion byproducts generated from operations shall be characterized, routinely monitored, controlled, and treated as required prior to discharge. Ozone- depleting substances shall be effectively managed in accordance with the Montreal Protocol and applicable regulations. Participants shall conduct routine monitoring of the performance of its air emission control systems.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0026",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 7) Water Management",
+      "heading": "7) Water Management",
+      "level": 3,
+      "pages": [
+        7
+      ],
+      "text": "7) Water Management\n\nParticipants shall implement a water management program that documents, characterizes, and monitors water sources, use and discharge; seeks opportunities to conserve water; and controls channels of contamination. All wastewater shall be characterized, monitored, controlled, and treated as required prior to discharge or disposal. Participants shall conduct routine monitoring of the performance of its wastewater treatment and containment systems to ensure optimal performance and regulatory compliance.",
+      "char_count": 525,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "6) Materials Restrictions\n\nParticipants shall adhere to all applicable laws, regulations, and customer requirements regarding the prohibition or restriction of specific substances in products and manufacturing, including labeling for recycling and disposal.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0027",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › C. ENVIRONMENT › 8) Energy Consumption and Greenhouse Gas Emissions",
+      "heading": "8) Energy Consumption and Greenhouse Gas Emissions",
+      "level": 3,
+      "pages": [
+        7
+      ],
+      "text": "8) Energy Consumption and Greenhouse Gas Emissions\n\nParticipants shall establish and report against an absolute corporate-wide greenhouse gas reduction goal. Energy consumption and all Scopes 1, 2, and significant categories of Scope 3 greenhouse gas emissions shall be tracked, documented, and publicly reported. Participants shall look for methods to improve energy efficiency and to minimize their energy consumption and greenhouse gas emissions.",
+      "char_count": 449,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "r sources, use and discharge; seeks opportunities to conserve water; and controls channels of contamination. All wastewater shall be characterized, monitored, controlled, and treated as required prior to discharge or disposal. Participants shall conduct routine monitoring of the performance of its wastewater treatment and containment systems to ensure optimal performance and regulatory compliance.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0028",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS",
+      "heading": "D. ETHICS",
+      "level": 2,
+      "pages": [
+        8
+      ],
+      "text": "D. ETHICS\n\nTo meet social responsibilities and to achieve success in the marketplace, Participants and their agents shall uphold the highest standards of ethics including the following:",
+      "char_count": 185,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "s\n\nParticipants shall establish and report against an absolute corporate-wide greenhouse gas reduction goal. Energy consumption and all Scopes 1, 2, and significant categories of Scope 3 greenhouse gas emissions shall be tracked, documented, and publicly reported. Participants shall look for methods to improve energy efficiency and to minimize their energy consumption and greenhouse gas emissions.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0029",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 1) Business Integrity",
+      "heading": "1) Business Integrity",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "1) Business Integrity\n\nThe highest standards of integrity shall be upheld in all business interactions. Participants shall have a zero-tolerance policy to prohibit any and all forms of bribery, corruption, extortion and embezzlement.",
+      "char_count": 233,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "D. ETHICS\n\nTo meet social responsibilities and to achieve success in the marketplace, Participants and their agents shall uphold the highest standards of ethics including the following:",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0030",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 2) No Improper Advantage",
+      "heading": "2) No Improper Advantage",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "2) No Improper Advantage\n\nBribes or other means of obtaining undue or improper advantage shall not be promised, offered, authorized, given, or accepted. This prohibition covers promising, offering, authorizing, giving or accepting anything of value, either directly or indirectly through a third party, in order to obtain or retain business, direct business to any person, or otherwise gain an improper advantage. Monitoring, record keeping, and enforcement procedures shall be implemented to ensure compliance with anti- corruption laws.",
+      "char_count": 538,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "1) Business Integrity\n\nThe highest standards of integrity shall be upheld in all business interactions. Participants shall have a zero-tolerance policy to prohibit any and all forms of bribery, corruption, extortion and embezzlement.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0031",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 3) Disclosure of Information",
+      "heading": "3) Disclosure of Information",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "3) Disclosure of Information\n\nAll business dealings shall be transparently performed and accurately reflected on the Participant’s business books and records. Information regarding participant’s labor, health and safety, environmental practices, business activities, structure, financial situation, and performance shall be disclosed in accordance with applicable regulations and prevailing industry practices. Falsification of records or misrepresentation of conditions or practices in the supply chain are unacceptable.",
+      "char_count": 521,
+      "part": 1,
+      "part_count": 1,
+      "context_before": ", or accepted. This prohibition covers promising, offering, authorizing, giving or accepting anything of value, either directly or indirectly through a third party, in order to obtain or retain business, direct business to any person, or otherwise gain an improper advantage. Monitoring, record keeping, and enforcement procedures shall be implemented to ensure compliance with anti- corruption laws.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0032",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 4) Intellectual Property",
+      "heading": "4) Intellectual Property",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "4) Intellectual Property\n\nIntellectual property rights shall be respected. Transfer of technology and know-how is to be done in a manner that protects intellectual property rights, and customer and supplier information shall be safeguarded.",
+      "char_count": 240,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "icipant’s business books and records. Information regarding participant’s labor, health and safety, environmental practices, business activities, structure, financial situation, and performance shall be disclosed in accordance with applicable regulations and prevailing industry practices. Falsification of records or misrepresentation of conditions or practices in the supply chain are unacceptable.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0033",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 5) Fair Business, Advertising and Competition",
+      "heading": "5) Fair Business, Advertising and Competition",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "5) Fair Business, Advertising and Competition\n\nStandards of fair business, advertising, and competition shall be upheld.",
+      "char_count": 120,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "4) Intellectual Property\n\nIntellectual property rights shall be respected. Transfer of technology and know-how is to be done in a manner that protects intellectual property rights, and customer and supplier information shall be safeguarded.",
+      "attached_definitions": [],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 0,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0034",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 6) Protection of Identity and Non-Retaliation",
+      "heading": "6) Protection of Identity and Non-Retaliation",
+      "level": 3,
+      "pages": [
+        8
+      ],
+      "text": "6) Protection of Identity and Non-Retaliation\n\nPrograms that ensure the confidentiality, anonymity, and protection of supplier and employee whistleblowers2 shall be maintained, unless prohibited by law. Participants shall have a communicated process for their personnel to be able to raise any concerns without fear of retaliation.\n\n> **Footnote 2:** 2 Whistleblower definition: Any person who makes a disclosure about improper conduct by an employee or officer of a company, or by a public official or official body.",
+      "char_count": 517,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "5) Fair Business, Advertising and Competition\n\nStandards of fair business, advertising, and competition shall be upheld.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0035",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 7) Responsible Sourcing of Minerals",
+      "heading": "7) Responsible Sourcing of Minerals",
+      "level": 3,
+      "pages": [
+        9
+      ],
+      "text": "7) Responsible Sourcing of Minerals\n\nParticipants shall adopt a policy and exercise due diligence on the source and chain of custody of the tantalum, tin, tungsten, gold, and cobalt in the products they manufacture to reasonably assure that they are sourced in a way consistent with the Organisation for Economic Co-operation and Development (OECD) Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and High-Risk Areas or an equivalent and recognized due diligence framework.",
+      "char_count": 500,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "supplier and employee whistleblowers2 shall be maintained, unless prohibited by law. Participants shall have a communicated process for their personnel to be able to raise any concerns without fear of retaliation.\n\n> **Footnote 2:** 2 Whistleblower definition: Any person who makes a disclosure about improper conduct by an employee or officer of a company, or by a public official or official body.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0036",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › D. ETHICS › 8) Privacy",
+      "heading": "8) Privacy",
+      "level": 3,
+      "pages": [
+        9
+      ],
+      "text": "8) Privacy\n\nParticipants shall commit to protecting the reasonable privacy expectations of personal information of everyone they do business with, including suppliers, customers, consumers, and employees. Participants shall comply with privacy and information security laws and regulatory requirements when personal information is collected, stored, processed, transmitted, and shared.",
+      "char_count": 385,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "the source and chain of custody of the tantalum, tin, tungsten, gold, and cobalt in the products they manufacture to reasonably assure that they are sourced in a way consistent with the Organisation for Economic Co-operation and Development (OECD) Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and High-Risk Areas or an equivalent and recognized due diligence framework.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0037",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS",
+      "heading": "E. MANAGEMENT SYSTEMS",
+      "level": 2,
+      "pages": [
+        10
+      ],
+      "text": "E. MANAGEMENT SYSTEMS\n\nParticipants shall adopt or establish a management system with a scope that is related to the content of this Code. The management system shall be designed to ensure: (a) compliance with applicable laws, regulations and customer requirements related to the participant’s operations and products; (b) conformance with this Code; and (c) identification and mitigation of operational risks related to this Code. It shall also facilitate continual improvement. The management system shall contain the following elements:",
+      "char_count": 539,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "8) Privacy\n\nParticipants shall commit to protecting the reasonable privacy expectations of personal information of everyone they do business with, including suppliers, customers, consumers, and employees. Participants shall comply with privacy and information security laws and regulatory requirements when personal information is collected, stored, processed, transmitted, and shared.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0038",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 1) Company Commitment",
+      "heading": "1) Company Commitment",
+      "level": 3,
+      "pages": [
+        10
+      ],
+      "text": "1) Company Commitment\n\nParticipants shall establish human rights, health and safety, environmental and ethics policy statements affirming Participant’s commitment to due diligence and continual improvement, endorsed by executive management. Policy statements shall be made public and communicated to workers in a language they understand via accessible channels..",
+      "char_count": 363,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "The management system shall be designed to ensure: (a) compliance with applicable laws, regulations and customer requirements related to the participant’s operations and products; (b) conformance with this Code; and (c) identification and mitigation of operational risks related to this Code. It shall also facilitate continual improvement. The management system shall contain the following elements:",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0039",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 2) Management Accountability and Responsibility",
+      "heading": "2) Management Accountability and Responsibility",
+      "level": 3,
+      "pages": [
+        10
+      ],
+      "text": "2) Management Accountability and Responsibility\n\nParticipants shall clearly identify senior executive and company representative(s) responsible for ensuring implementation of the management systems and associated programs. Senior management reviews the status of the management systems on a regular basis.",
+      "char_count": 305,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "1) Company Commitment\n\nParticipants shall establish human rights, health and safety, environmental and ethics policy statements affirming Participant’s commitment to due diligence and continual improvement, endorsed by executive management. Policy statements shall be made public and communicated to workers in a language they understand via accessible channels..",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0040",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 3) Legal and Customer Requirements",
+      "heading": "3) Legal and Customer Requirements",
+      "level": 3,
+      "pages": [
+        10
+      ],
+      "text": "3) Legal and Customer Requirements\n\nParticipants shall adopt or establish a process to identify, monitor and understand applicable laws, regulations, and customer requirements, including the requirements of this Code.",
+      "char_count": 217,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "2) Management Accountability and Responsibility\n\nParticipants shall clearly identify senior executive and company representative(s) responsible for ensuring implementation of the management systems and associated programs. Senior management reviews the status of the management systems on a regular basis.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0041",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 4) Risk Assessment and Risk Management",
+      "heading": "4) Risk Assessment and Risk Management",
+      "level": 3,
+      "pages": [
+        10
+      ],
+      "text": "4) Risk Assessment and Risk Management\n\nParticipants shall adopt or establish a process to identify the legal compliance, environmental, health and safety3, labor practice and ethics risks, including the risks of severe human rights and environmental impacts, associated with Participant’s operations. Participants shall determine the relative significance for each risk and implement appropriate procedural and physical controls to control the identified risks and ensure regulatory compliance.",
+      "char_count": 495,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "3) Legal and Customer Requirements\n\nParticipants shall adopt or establish a process to identify, monitor and understand applicable laws, regulations, and customer requirements, including the requirements of this Code.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0042",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 5) Improvement Objectives",
+      "heading": "5) Improvement Objectives",
+      "level": 3,
+      "pages": [
+        10
+      ],
+      "text": "5) Improvement Objectives\n\nParticipants shall establish written performance objectives, targets and implementation plans to improve the Participant’s social, environmental, and health and safety performance, including a periodic assessment of Participant’s performance in achieving those objectives.\n\n> **Footnote 3:** 3 Areas to be included in a risk assessment for environmental health and safety are production areas, warehouse and storage facilities, plant/facilities support equipment, laboratories and test areas, sanitation facilities (bathrooms), kitchen/cafeteria and worker housing/dormitories.",
+      "char_count": 604,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "tify the legal compliance, environmental, health and safety3, labor practice and ethics risks, including the risks of severe human rights and environmental impacts, associated with Participant’s operations. Participants shall determine the relative significance for each risk and implement appropriate procedural and physical controls to control the identified risks and ensure regulatory compliance.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0043",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 6) Training",
+      "heading": "6) Training",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "6) Training\n\nParticipants shall establish programs for training managers and workers to implement Participant’s policies, procedures, and improvement objectives and to meet applicable legal and regulatory requirements.",
+      "char_count": 218,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "ce, including a periodic assessment of Participant’s performance in achieving those objectives.\n\n> **Footnote 3:** 3 Areas to be included in a risk assessment for environmental health and safety are production areas, warehouse and storage facilities, plant/facilities support equipment, laboratories and test areas, sanitation facilities (bathrooms), kitchen/cafeteria and worker housing/dormitories.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0044",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 7) Communication",
+      "heading": "7) Communication",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "7) Communication\n\nParticipants shall establish process for communicating clear and accurate information about Participant’s policies, practices, expectations, and performance to workers, suppliers, and customers.",
+      "char_count": 212,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "6) Training\n\nParticipants shall establish programs for training managers and workers to implement Participant’s policies, procedures, and improvement objectives and to meet applicable legal and regulatory requirements.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0045",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 8) Worker/Stakeholder Engagement and Access To Remedy",
+      "heading": "8) Worker/Stakeholder Engagement and Access To Remedy",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "8) Worker/Stakeholder Engagement and Access To Remedy\n\nParticipants shall establish processes for ongoing two-way communication with workers, their representatives, and other stakeholders where relevant or necessary. The process shall aim to obtain feedback on operational practices and conditions covered by this Code, and to foster continuous improvement. Workers shall be given a safe environment to provide grievance and feedback without fear of reprisal or retaliation.",
+      "char_count": 474,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "7) Communication\n\nParticipants shall establish process for communicating clear and accurate information about Participant’s policies, practices, expectations, and performance to workers, suppliers, and customers.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0046",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 9) Audits and Assessments",
+      "heading": "9) Audits and Assessments",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "9) Audits and Assessments\n\nParticipants shall conduct periodic self-evaluations to ensure conformity to legal and regulatory requirements, the content of the Code, and customer contractual requirements related to social and environmental responsibility.",
+      "char_count": 253,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "establish processes for ongoing two-way communication with workers, their representatives, and other stakeholders where relevant or necessary. The process shall aim to obtain feedback on operational practices and conditions covered by this Code, and to foster continuous improvement. Workers shall be given a safe environment to provide grievance and feedback without fear of reprisal or retaliation.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0047",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 10) Corrective Action Process",
+      "heading": "10) Corrective Action Process",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "10) Corrective Action Process\n\nParticipants shall establish a process for timely correction of deficiencies identified by internal or external assessments, inspections, investigations, and reviews.",
+      "char_count": 197,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "9) Audits and Assessments\n\nParticipants shall conduct periodic self-evaluations to ensure conformity to legal and regulatory requirements, the content of the Code, and customer contractual requirements related to social and environmental responsibility.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0048",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 11) Documentation and Records",
+      "heading": "11) Documentation and Records",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "11) Documentation and Records\n\nParticipants shall create and maintain documents and records to ensure regulatory compliance and conformity to company requirements along with appropriate confidentiality to protect privacy.",
+      "char_count": 221,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "10) Corrective Action Process\n\nParticipants shall establish a process for timely correction of deficiencies identified by internal or external assessments, inspections, investigations, and reviews.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0049",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › RESPONSIBLE BUSINESS ALLIANCE CODE OF CONDUCT › E. MANAGEMENT SYSTEMS › 12) Supplier Responsibility",
+      "heading": "12) Supplier Responsibility",
+      "level": 3,
+      "pages": [
+        11
+      ],
+      "text": "12) Supplier Responsibility\n\nParticipants shall establish a process to communicate Code requirements to suppliers and to monitor supplier compliance to the Code.",
+      "char_count": 161,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "11) Documentation and Records\n\nParticipants shall create and maintain documents and records to ensure regulatory compliance and conformity to company requirements along with appropriate confidentiality to protect privacy.",
+      "attached_definitions": [
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0050",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › REFERENCES",
+      "heading": "REFERENCES",
+      "level": 1,
+      "pages": [
+        12,
+        13
+      ],
+      "text": "REFERENCES\n\nThe following references were used in preparing this Code and may be useful sources of additional information. The following references may or may not be endorsed by each Participant: Standards and Conventions: • ILO Fundamental Conventions o Freedom of Association and Protection of the Right to Organise Convention, 1948 (No.87) o Right to Organise and Collective Bargaining Convention, 1949 (No.98) o Forced Labour Convention, 1930 (No.29) o Abolition of Forced Labour Convention, 1957 (No.105) o Minimum Age Convention, 1973 (No.138) o Worst Forms of Child Labour Convention, 1999 (No.182) o Equal Remuneration Convention, 1999 (No.100) o Discrimination (Employment and Occupation) Convention, 1958 (No.111) o Occupational Safety and Health Convention, 1981 (No.155), and the Promotional Framework, 2006 (No.187) • OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas • OECD Guidelines for Multinational Enterprises • United Nations (UN) Guiding Principles on Business and Human Rights • Universal Declaration of Human Rights • United Nations Convention Against Corruption • United Nations Convention on the Rights of the Child • United Nations Convention on the Elimination of All Forms of Discrimination Against Women • United Nations Global Compact Other Useful References:\n\n• Dodd-Frank Wall Street Reform and Consumer Protection Act • Eco Management & Audit System • Ethical Trading Initiative • ILO Code of Practice in Safety and Health • ISO 14001 and related standards – Environmental management • ISO 45001:2018 - Occupational health and safety management systems • National Fire Protection Association • Social Accountability International (SAI) o SA 8000 • United States Federal Acquisition Regulation",
+      "char_count": 1788,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "12) Supplier Responsibility\n\nParticipants shall establish a process to communicate Code requirements to suppliers and to monitor supplier compliance to the Code.",
+      "attached_definitions": [
+        {
+          "term": "OECD",
+          "definition": "Organisation for Economic Co-operation and Development. Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and High-Risk Areas or an equivalent and recognized due diligence framework.",
+          "source_chunk_id": "rba_code_of_conduct-0035",
+          "method": "glossary_lookup"
+        },
+        {
+          "term": "Participant",
+          "definition": "at business to its direct and indirect supply chain and subcontractors, including providers of contract labor. To adopt the Code and become a participant (“Participant”), a business shall declare its support for the Code and conduct due diligence in line with the Code and its standards through the establishment of an effective management system. W",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 2,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    },
+    {
+      "chunk_id": "rba_code_of_conduct-0051",
+      "doc_id": "rba_code_of_conduct",
+      "breadcrumb": "RBA › DOCUMENT HISTORY",
+      "heading": "DOCUMENT HISTORY",
+      "level": 1,
+      "pages": [
+        14
+      ],
+      "text": "DOCUMENT HISTORY\n\nVersion 1.0 – Released October 2004. Version 1.1 – Released May 2005. Converted document to RBA format, minor page layout revisions; no content changes. Version 2.0 – Released October 2005 with revisions to multiple provisions. Version 3.0 – Released June 2009 with revisions to multiple provisions. Version 4.0 – Released April 2012 with revisions to multiple provisions. Version 5.0 – Released November 2014 with revisions to multiple provisions. Version 5.1 – Released March 2015 with revision to A1 to take effect January 1, 2016. Version 6.0 – Released January 2018 with revisions to multiple provisions. Version 7.0 – Released January 2021 with revisions to multiple provisions. Version 8.0 – Released January 2024 with revisions to multiple provisions. Version 8.0.1 – Released November 2025 with minor revision to Preamble. The RBA Code of Conduct was initially developed by a number of companies engaged in the manufacture of electronics products between June and October 2004. Companies are invited and encouraged to adopt this Code. You may obtain additional information from: https://www.responsiblebusiness.org",
+      "char_count": 1141,
+      "part": 1,
+      "part_count": 1,
+      "context_before": "d Consumer Protection Act • Eco Management & Audit System • Ethical Trading Initiative • ILO Code of Practice in Safety and Health • ISO 14001 and related standards – Environmental management • ISO 45001:2018 - Occupational health and safety management systems • National Fire Protection Association • Social Accountability International (SAI) o SA 8000 • United States Federal Acquisition Regulation",
+      "attached_definitions": [
+        {
+          "term": "RBA",
+          "definition": "The Responsible Business Alliance. Code of Conduct establishes standards that seek to promote that working conditions in supply chains are safe, and that business is conducted responsibly, ethically, and with respect for human rights and the environment.",
+          "source_chunk_id": "rba_code_of_conduct-0002",
+          "method": "glossary_lookup"
+        }
+      ],
+      "resolved_references": [],
+      "enrichment": {
+        "definition_count": 1,
+        "reference_count": 0,
+        "resolved_count": 0,
+        "unresolved_count": 0,
+        "ambiguous_count": 0
+      }
+    }
+  ]
+}

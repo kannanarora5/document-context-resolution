@@ -40,11 +40,18 @@ ACRONYM_DEF_RE = re.compile(
 ACRONYM_OR_RE = re.compile(
     r"\b([A-Z]{2,10})\s+or\s+([A-Z][A-Za-z0-9][A-Za-z0-9/ &\-]{1,80}?)\s+([A-Z][^.]{10,220}\.)"
 )
-# GDPR-style: (1) 'term' means ...
+# GDPR-style multi-def block: (1) 'term' means ... (2) 'other' means ...
 GDPR_DEF_RE = re.compile(
     r"\((\d+)\)\s*[‘'']([^‘'']+)[’'']\s*means\s+(.+?)(?=\(\d+\)\s*[‘'']|\Z)",
     re.S,
 )
+# Split Art. 4 unit chunk: heading "(N)", body "'term' means …"
+GDPR_SINGLE_DEF_RE = re.compile(
+    r"[‘'']([^‘'']+)[’'']\s*means\s+(.+)",
+    re.S,
+)
+PAREN_HEADING_RE = re.compile(r"^\((\d+)\)")
+ARTICLE_IN_CRUMB_RE = re.compile(r"Article\s+(\d+)\b", re.I)
 # RBA-style: become a participant (“Participant”)
 QUOTED_ALIAS_RE = re.compile(
     r"\b((?:[A-Za-z]+[ \-]){0,5}[A-Za-z]+)\s*\([\"“]([A-Z][A-Za-z0-9\-]{2,40})[\"”]\)"
@@ -121,11 +128,21 @@ def build_section_index(chunks: list[dict]) -> dict[str, dict]:
         if am:
             keys.add(f"article {am.group(1)}")
             keys.add(f"article_{am.group(1)}")
-        pm = re.match(r"^\((\d+)\)$", heading.strip())
+        pm = PAREN_HEADING_RE.match(heading.strip())
+        crumb = group[0].get("breadcrumb") or ""
+        art_in_crumb = ARTICLE_IN_CRUMB_RE.search(crumb)
         if pm:
-            keys.add(f"({pm.group(1)})")
-            keys.add(f"recital {pm.group(1)}")
-            keys.add(f"recital_{pm.group(1)}")
+            num = pm.group(1)
+            keys.add(f"({num})")
+            if art_in_crumb:
+                # Art. 4 › (1) is a definition unit, not a recital.
+                art_n = art_in_crumb.group(1)
+                keys.add(f"article {art_n}({num})")
+                keys.add(f"article {art_n} ({num})")
+                keys.add(f"article_{art_n}_{num}")
+            else:
+                keys.add(f"recital {num}")
+                keys.add(f"recital_{num}")
         for key in keys:
             if key and key not in index:
                 index[key] = entry
@@ -229,9 +246,20 @@ def build_glossary(chunks: list[dict]) -> dict[str, dict]:
     for ch in chunks:
         text = ch.get("text") or ""
         cid = ch["chunk_id"]
+        heading = (ch.get("heading") or "").strip()
+        crumb = ch.get("breadcrumb") or ""
 
         for m in GDPR_DEF_RE.finditer(text):
             add(m.group(2), f"means {m.group(3).strip()}", cid, "gdpr_article_def")
+
+        # Per-unit Art. 4 chunks: body starts with 'term' means … (no leading (N)).
+        if PAREN_HEADING_RE.match(heading) and ARTICLE_IN_CRUMB_RE.search(crumb):
+            body = text
+            if body.startswith(heading):
+                body = body[len(heading):].lstrip()
+            sm = GDPR_SINGLE_DEF_RE.search(body)
+            if sm:
+                add(sm.group(1), f"means {sm.group(2).strip()}", cid, "gdpr_article_def")
 
         for m in QUOTED_ALIAS_RE.finditer(text):
             alias = m.group(2).strip()
@@ -273,7 +301,16 @@ def lookup_section(section_index: dict[str, dict], mention: str) -> dict | None:
         mention.strip()
     )
     if am:
-        keys.extend([f"article {am.group(1)}", f"article_{am.group(1)}"])
+        num = am.group(1)
+        # Prefer paragraph-specific Art. 4(1) units when indexed.
+        para = am.group(2) if am.lastindex and am.lastindex >= 2 else None
+        if para:
+            keys.extend([
+                f"article {num}({para})",
+                f"article {num} ({para})",
+                f"article_{num}_{para}",
+            ])
+        keys.extend([f"article {num}", f"article_{num}"])
 
     for key in keys:
         if key in section_index:

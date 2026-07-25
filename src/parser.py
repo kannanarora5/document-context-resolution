@@ -65,7 +65,24 @@ LAYOUT_NOISE_PATTERNS = [
     ),
     re.compile(r"^\d{1,2}\.\d{1,2}\.\d{4},\s*p\.\s*\d+", re.I),
     re.compile(r"^L\s+\d+/\d+\s*$", re.I),
+    # Apple page footers (often two spans merged without a space).
+    re.compile(r"^Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}\s*Version\s+\d+\S*$", re.I),
+    re.compile(r"^Version\s+\d+\S*\s*Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}$", re.I),
+    re.compile(r"^Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}$", re.I),
+    re.compile(r"^Version\s+\d+\S*$", re.I),
 ]
+
+# Leading footer stamp glued onto the next paragraph on cover/Standards pages.
+# Do NOT strip bare "Version N.M …" — RBA keeps "Version 8.0.1 (2025)" and
+# Document History lines like "Version 1.0 – Released …".
+LEADING_DOC_STAMP = re.compile(
+    r"^Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}\s*Version\s+\d+\S*\s*"
+    r"|^Version\s+\d+\S*\s*Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}\s*"
+    r"|^Effective\s+[A-Za-z]+\s+\d{1,2},\s*\d{4}\s+",
+    re.I,
+)
+
+BULLET_PREFIX = re.compile(r"^[•\u2022▪▸►\-]\s*")
 
 FALSE_HEADING_PATTERNS = [
     re.compile(r"^[IVXLC]{1,4}$"),
@@ -191,14 +208,13 @@ def _detect_column_split(frags: list[dict], page_width: float) -> float | None:
 
 def _merge_same_row(frags: list[dict]) -> list[dict]:
     by_y0: dict[float, list[dict]] = defaultdict(list)
-    order: list[float] = []
     for f in frags:
-        if f["y0"] not in by_y0:
-            order.append(f["y0"])
         by_y0[f["y0"]].append(f)
 
+    # Top-to-bottom within a column. PDF block order is often not reading order
+    # (Apple Standards cover puts the intro before the 100pt title in the stream).
     merged: list[dict] = []
-    for y0 in order:
+    for y0 in sorted(by_y0):
         parts = sorted(by_y0[y0], key=lambda f: f["x0"])
         text = "".join(p["text"] for p in parts).strip()
         if not text:
@@ -260,6 +276,11 @@ def detect_repeated_noise_lines(lines: list[dict]) -> set[str]:
         if not text or not _eligible_for_noise(text):
             continue
         pages_per_text[text].add(line["page"])
+        # Also track bullet-stripped form so '• Anti-Discrimination' and
+        # 'Anti-Discrimination' share a noise key.
+        key = _noise_lookup_key(text)
+        if key != text and _eligible_for_noise(key):
+            pages_per_text[key].add(line["page"])
     return {t for t, pages in pages_per_text.items() if len(pages) >= MIN_REPEATED_PAGES}
 
 
@@ -292,11 +313,69 @@ def _looks_like_heading_text(text: str) -> bool:
     return len(text.split()) <= MAX_HEADING_WORDS
 
 
+def _first_alpha(text: str) -> str:
+    for ch in text:
+        if ch.isalpha():
+            return ch
+    return ""
+
+
+def _is_plausible_title(text: str) -> bool:
+    """Reject pull-quotes / mid-sentence wraps promoted by large body fonts (Apple)."""
+    t = text.strip()
+    if not t:
+        return False
+    # Apple running stamps like "Effective November 11, 2025Version 5".
+    if re.match(r"^Effective\b", t, re.I):
+        return False
+    if re.search(r"Version\s+\d\S*.*Effective|Effective.*Version\s+\d", t, re.I):
+        return False
+    # Doc version labels ("Version 8.0.1 (2025)") are metadata, not section titles.
+    if re.match(r"^Version\s+\d", t, re.I):
+        return False
+    # Continuation fragments: "part-time, and temporary…", "and Human Rights"
+    first = _first_alpha(t)
+    if first and first.islower():
+        return False
+    # Trailing comma: allow short wrap midpoints ("Responsible Sourcing of Primary,")
+    # but reject long sentence fragments that end mid-clause.
+    if t.endswith((",", ";", "—", "–")):
+        if t.endswith(",") and len(t.split()) <= 8:
+            return True
+        return False
+    # Display pull-quotes are full sentences ending in "."
+    if t.endswith(".") and len(t.split()) >= 6:
+        return False
+    return True
+
+
+def _noise_lookup_key(text: str) -> str:
+    """Sidebar/TOC may be plain, bullet-prefixed, or title+page-number."""
+    t = BULLET_PREFIX.sub("", text).strip()
+    # Apple TOC rows: "Management Systems\t15" / "Chemical Management  55"
+    t = re.sub(r"[\t ]+\d{1,3}$", "", t).strip()
+    return t
+
+
+def _part_title_set(noise_lines: set[str]) -> set[str]:
+    """Sidebar TOC strings that also label real Standard/part titles."""
+    keys = {_noise_lookup_key(t) for t in noise_lines}
+    return {t for t in keys if _is_plausible_title(t)}
+
+
 def is_layout_noise(text: str) -> bool:
     t = text.strip()
     if not t:
         return True
     return any(p.search(t) for p in LAYOUT_NOISE_PATTERNS)
+
+
+def _strip_leading_doc_stamp(text: str) -> str:
+    """Remove Apple Effective/Version footer when glued onto body text."""
+    t = text.strip()
+    if not t:
+        return t
+    return LEADING_DOC_STAMP.sub("", t, count=1).strip()
 
 
 def is_false_heading(text: str) -> bool:
@@ -318,15 +397,38 @@ def _paren_unit_match(text: str) -> re.Match | None:
     return m
 
 
+def _is_sidebar_noise(text: str, size: float, body_size: float, noise: set[str]) -> bool:
+    """Repeated headers/TOCs are noise only at body-or-smaller size.
+
+    Apple Standard titles (e.g. 'Anti-Discrimination' at 56pt) share text with the
+    12pt sidebar TOC; keep the display-sized line. Bullet-prefixed TOC rows
+    ('• Anti-Discrimination') match the same noise keys. Same-row merges of
+    bullet + plain TOC sometimes concatenate the title twice — treat as noise.
+    """
+    if size >= body_size * HEADING_SIZE_RATIO:
+        return False
+    key = _noise_lookup_key(text)
+    if text in noise or key in noise or f"• {key}" in noise:
+        return True
+    for n in noise:
+        if len(n) < 10:
+            continue
+        if key == n + n or key.replace(" ", "") == (n + n).replace(" ", ""):
+            return True
+    return False
+
+
 def collect_heading_sizes(lines: list[dict], body_size: float, noise: set[str]) -> list[float]:
     sizes: set[float] = set()
     for line in lines:
         text = _norm_text(line["text"])
-        if not text or text in noise or is_layout_noise(text) or is_false_heading(text):
+        if not text or is_layout_noise(text) or is_false_heading(text):
+            continue
+        if _is_sidebar_noise(text, line["size"], body_size, noise):
             continue
         if line["size"] < body_size * HEADING_SIZE_RATIO:
             continue
-        if not _looks_like_heading_text(text):
+        if not _looks_like_heading_text(text) or not _is_plausible_title(text):
             continue
         sizes.add(line["size"])
     return sorted(sizes, reverse=True)
@@ -354,19 +456,19 @@ def classify_line(
     noise_lines: set[str],
 ) -> list[dict] | None:
     """Classify one PDF line into zero or more blocks (recital units emit heading+body)."""
-    text = _norm_text(line["text"])
+    text = _strip_leading_doc_stamp(_norm_text(line["text"]))
+    size = line["size"]
+    page = line["page"]
+    y0 = line.get("y0")
+
     if (
         not text
-        or text in noise_lines
+        or _is_sidebar_noise(text, size, body_size, noise_lines)
         or PAGE_NUMBER_LINE.match(text)
         or is_layout_noise(text)
         or HEADER_NOISE.match(text)
     ):
         return None
-
-    size = line["size"]
-    page = line["page"]
-    y0 = line.get("y0")
 
     # Parenthetical units (recitals / Art. 4 defs): body-sized only, short heading label.
     paren = _paren_unit_match(text)
@@ -386,6 +488,7 @@ def classify_line(
                 "type": "paragraph",
                 "text": rest,
                 "page": page,
+                "y0": y0,
                 "size": size,
             })
         return blocks
@@ -395,7 +498,10 @@ def classify_line(
 
     if (is_heading_size or numbering) and _looks_like_heading_text(text):
         if is_false_heading(text):
-            return [{"type": "paragraph", "text": text, "page": page, "size": size}]
+            return [{"type": "paragraph", "text": text, "page": page, "y0": y0, "size": size}]
+        # Numbered section openers keep structure even when phrasing is sentence-like.
+        if not numbering and not _is_plausible_title(text):
+            return [{"type": "paragraph", "text": text, "page": page, "y0": y0, "size": size}]
         if numbering:
             level = numbering[0]
         else:
@@ -418,7 +524,7 @@ def classify_line(
             "page": page,
         }]
 
-    return [{"type": "paragraph", "text": text, "page": page, "size": size}]
+    return [{"type": "paragraph", "text": text, "page": page, "y0": y0, "size": size}]
 
 
 def _heading_wrap_gap(buf: dict, block: dict) -> float:
@@ -468,6 +574,184 @@ def merge_wrapped_headings(blocks: list[dict]) -> list[dict]:
     return out
 
 
+def absorb_heading_continuations(blocks: list[dict]) -> list[dict]:
+    """Merge a same-page, same-size lowercase wrap line into the prior heading.
+
+    Apple/GDPR sometimes split titles: 'United Nations Guiding Principles on Business'
+    then 'and Human Rights'. The second line starts lowercase so it is not a heading,
+    but it belongs on the title.
+    """
+    if not blocks:
+        return []
+
+    out: list[dict] = []
+    i = 0
+    while i < len(blocks):
+        b = blocks[i]
+        if b["type"] != "heading":
+            out.append(b)
+            i += 1
+            continue
+
+        merged = dict(b)
+        j = i + 1
+        while j < len(blocks):
+            nxt = blocks[j]
+            if nxt["type"] != "paragraph":
+                break
+            if nxt.get("page") != merged.get("page"):
+                break
+            if abs(float(nxt.get("size") or 0) - float(merged.get("size") or 0)) > 0.6:
+                break
+            cont = _norm_text(nxt["text"])
+            first = _first_alpha(cont)
+            if not first or not first.islower():
+                break
+            words = len(cont.split())
+            if words > 8:
+                break
+            y_gap = None
+            if merged.get("y0") is not None and nxt.get("y0") is not None:
+                y_gap = abs(float(nxt["y0"]) - float(merged["y0"]))
+            max_gap = _heading_wrap_gap(merged, nxt)
+            # Short wrap lines ("and Human Rights") often sit farther under
+            # large display titles than same-size body wraps.
+            if words <= 5:
+                max_gap = max(max_gap, float(merged.get("size") or 0) * 1.6)
+            if y_gap is None or y_gap > max_gap:
+                break
+            merged["text"] = _norm_text(f"{merged['text']} {cont}")
+            if nxt.get("y0") is not None:
+                merged["y0"] = nxt["y0"]
+            j += 1
+
+        out.append(merged)
+        i = j if j > i + 1 else i + 1
+
+    return out
+
+
+def demote_implausible_headings(blocks: list[dict]) -> list[dict]:
+    """After wraps, demote unnumbered headings that look like sentences."""
+    out: list[dict] = []
+    for b in blocks:
+        if b["type"] != "heading":
+            out.append(b)
+            continue
+        text = _norm_text(b["text"])
+        if _numbering_match(text) or _paren_unit_match(text) or _is_plausible_title(text):
+            out.append(b)
+            continue
+        para = dict(b)
+        para["type"] = "paragraph"
+        para.pop("level", None)
+        out.append(para)
+    return out
+
+
+def drop_redundant_display_titles(
+    blocks: list[dict],
+    *,
+    part_titles: set[str],
+) -> list[dict]:
+    """Drop thematic cover titles that sit above the sidebar-canonical Standard.
+
+    Apple p98 prints both 'Energy, Environmental, and New Facility Investments'
+    and 'Facility Siting, Energy and Environmental Investments' at display size;
+    only the latter is the real Standard name (sidebar/TOC).
+    """
+    if not part_titles or not blocks:
+        return blocks
+
+    out: list[dict] = []
+    i = 0
+    while i < len(blocks):
+        b = blocks[i]
+        if (
+            b["type"] == "heading"
+            and i + 1 < len(blocks)
+            and blocks[i + 1]["type"] == "heading"
+            and b.get("page") == blocks[i + 1].get("page")
+        ):
+            cur = _norm_text(b["text"])
+            nxt = _norm_text(blocks[i + 1]["text"])
+            if (
+                not _numbering_match(cur)
+                and not _numbering_match(nxt)
+                and nxt in part_titles
+                and cur not in part_titles
+            ):
+                i += 1
+                continue
+        out.append(b)
+        i += 1
+    return out
+
+
+def strip_toc_body(blocks: list[dict]) -> list[dict]:
+    """Keep the TOC heading; drop the navigational title/page-number rows under it."""
+    out: list[dict] = []
+    in_toc = False
+    for b in blocks:
+        if b["type"] == "heading":
+            title = _norm_text(b["text"]).casefold()
+            if title in {"table of contents", "contents"}:
+                in_toc = True
+                out.append(b)
+                continue
+            in_toc = False
+            out.append(b)
+            continue
+        if in_toc:
+            continue
+        out.append(b)
+    return out
+
+
+def relevel_numbered_headings(
+    blocks: list[dict],
+    *,
+    part_titles: set[str] | None = None,
+) -> list[dict]:
+    """Nest numbered sections under the latest major display / Standard title.
+
+    Apple Standards use huge unnumbered titles then '1. …' openers whose absolute
+    numbering level would clear the Standard from the breadcrumb stack. Only
+    cover/part titles (level 1) and known Standard/sidebar names move the anchor —
+    so a mid-Code heading like 'Our Expectations' does not swallow '1. Labor'.
+
+    Parenthetical units ('(1)', '(2)', …) nest one level below the current
+    non-paren heading (recital under REGULATIONS; Art. 4 defs under Article 4).
+    A fixed absolute level would make them siblings of Article 4 when both land
+    at level 2 after releveling.
+    """
+    part_titles = part_titles or set()
+    out: list[dict] = []
+    last_display_level = 0
+    last_anchor_level = 0  # last non-paren heading; paren units nest under this
+    for b in blocks:
+        if b["type"] != "heading":
+            out.append(b)
+            continue
+        nb = dict(b)
+        text = _norm_text(nb["text"])
+        numbering = _numbering_match(text)
+        if numbering:
+            depth = numbering[0]
+            nb["level"] = last_display_level + depth
+            last_anchor_level = nb["level"]
+        elif _paren_unit_match(text):
+            nb["level"] = last_anchor_level + 1
+            # Do not advance the anchor — (1), (2), … stay siblings under parent.
+        else:
+            level = int(nb.get("level") or 1)
+            if level <= 1 or text in part_titles:
+                last_display_level = level
+            last_anchor_level = int(nb.get("level") or 1)
+        out.append(nb)
+    return out
+
+
 def strip_preview_indexes(blocks: list[dict]) -> list[dict]:
     """Drop Apple-style mini TOCs: consecutive '1. …' headings with no body between them.
 
@@ -496,13 +780,14 @@ def strip_preview_indexes(blocks: list[dict]) -> list[dict]:
             run.append(blocks[j])
             j += 1
 
-        # Split on restarts: … 12. Foo, 1. Foo again …
+        # Split on restarts: … 12. Foo, 1. Foo again … or short intro TOCs
+        # like "1. TPEA … 2. TPEA …" then real "1. TPEA …" on the next page.
         segs: list[list[dict]] = []
         start = 0
         for k in range(1, len(run)):
             prev_n = int(DOTTED_ITEM_RE.match(run[k - 1]["text"]).group(1))
             n = int(DOTTED_ITEM_RE.match(run[k]["text"]).group(1))
-            if n == 1 and prev_n >= 3:
+            if n == 1 and prev_n >= 2:
                 segs.append(run[start:k])
                 start = k
         segs.append(run[start:])
@@ -513,8 +798,8 @@ def strip_preview_indexes(blocks: list[dict]) -> list[dict]:
             nums = [int(DOTTED_ITEM_RE.match(x["text"]).group(1)) for x in seg]
             sequential = nums == list(range(nums[0], nums[0] + len(nums)))
 
-            # Non-final segment before a 1. restart → drop if long enough.
-            if not is_last and len(seg) >= 3:
+            # Non-final segment before a 1. restart → drop preview list.
+            if not is_last and len(seg) >= 2:
                 continue
 
             # Final segment: mini-TOC then body without restating "1."
@@ -539,6 +824,52 @@ def strip_preview_indexes(blocks: list[dict]) -> list[dict]:
 
             out.extend(seg)
         i = j
+
+    return out
+
+
+def dedupe_preview_section_openers(blocks: list[dict]) -> list[dict]:
+    """Drop a numbered opener kept from a mini-TOC when the real opener follows.
+
+    Apple Standard intro pages often look like: '1. … 2. … 3. …' (TOC), then a short
+    unnumbered intro paragraph, then the real '1. …' with body. strip_preview_indexes
+    may keep the first TOC '1.' for the intro; remove that duplicate when the same
+    numbered title reappears after only paragraphs/footnotes.
+    """
+    if not blocks:
+        return []
+
+    out: list[dict] = []
+    i = 0
+    while i < len(blocks):
+        b = blocks[i]
+        if b["type"] != "heading" or not DOTTED_ITEM_RE.match(b["text"]):
+            out.append(b)
+            i += 1
+            continue
+
+        title = _norm_text(b["text"])
+        j = i + 1
+        only_soft = True
+        restart_at = None
+        while j < len(blocks):
+            nxt = blocks[j]
+            if nxt["type"] == "heading":
+                if _norm_text(nxt["text"]) == title and DOTTED_ITEM_RE.match(nxt["text"]):
+                    restart_at = j
+                break
+            if nxt["type"] not in ("paragraph", "footnote"):
+                only_soft = False
+                break
+            j += 1
+
+        if restart_at is not None and only_soft and j > i + 1:
+            # Skip the preview opener; keep intervening soft blocks + real opener.
+            i += 1
+            continue
+
+        out.append(b)
+        i += 1
 
     return out
 
@@ -684,8 +1015,15 @@ def parse_document(pdf_path: str | Path, *, doc_label: str | None = None) -> lis
             classified.extend(result)
 
     wrapped = merge_wrapped_headings(classified)
-    stripped = strip_preview_indexes(wrapped)
-    merged = merge_blocks(stripped)
+    continued = absorb_heading_continuations(wrapped)
+    demoted = demote_implausible_headings(continued)
+    part_titles = _part_title_set(noise_lines)
+    pruned = drop_redundant_display_titles(demoted, part_titles=part_titles)
+    releveled = relevel_numbered_headings(pruned, part_titles=part_titles)
+    stripped = strip_preview_indexes(releveled)
+    deduped = dedupe_preview_section_openers(stripped)
+    no_toc = strip_toc_body(deduped)
+    merged = merge_blocks(no_toc)
     return attach_breadcrumbs(merged, doc_label=doc_label)
 
 

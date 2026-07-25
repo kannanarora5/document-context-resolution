@@ -11,6 +11,7 @@ from resolver import (  # noqa: E402
     build_glossary,
     build_section_index,
     enrich_document,
+    lookup_section,
     resolve_chunk,
 )
 
@@ -95,6 +96,22 @@ SAMPLE_CHUNKS = [
         "part_count": 1,
         "context_before": "",
     },
+    {
+        "chunk_id": "demo-0006",
+        "doc_id": "demo",
+        "breadcrumb": "DEMO › REGULATIONS › Article 4 › (2)",
+        "heading": "(2)",
+        "level": 3,
+        "pages": [33],
+        "text": (
+            "(2)\n\n‘processing’ means any operation or set of operations which is "
+            "performed on personal data or on sets of personal data."
+        ),
+        "char_count": 140,
+        "part": 1,
+        "part_count": 1,
+        "context_before": "",
+    },
 ]
 
 
@@ -112,6 +129,23 @@ def test_glossary_captures_participant_and_fcw():
         "nationality" in glossary["fcw"]["definition"]
 
 
+def test_glossary_captures_split_article4_def():
+    glossary = build_glossary(SAMPLE_CHUNKS)
+    assert "processing" in glossary
+    assert glossary["processing"]["kind"] == "gdpr_article_def"
+    assert "operation" in glossary["processing"]["definition"]
+
+
+def test_article4_paren_unit_indexed_and_resolved():
+    index = build_section_index(SAMPLE_CHUNKS)
+    assert "article 4(2)" in index
+    assert index["article 4(2)"]["heading"] == "(2)"
+    assert "Article 4" in (index["article 4(2)"].get("breadcrumb") or "")
+    hit = lookup_section(index, "Article 4(2)")
+    assert hit is not None
+    assert hit["heading"] == "(2)"
+
+
 def test_article_cross_ref_resolves():
     index = build_section_index(SAMPLE_CHUNKS)
     glossary = build_glossary(SAMPLE_CHUNKS)
@@ -125,6 +159,7 @@ def test_article_cross_ref_resolves():
     terms = {d["term"].lower() for d in enriched["attached_definitions"]}
     assert "participant" in terms
     assert "fcw" in terms
+    assert "processing" in terms
 
 
 def test_named_standard_resolves_via_toc():
@@ -154,6 +189,8 @@ def test_enrich_document_totals():
 if __name__ == "__main__":
     test_section_index_has_articles()
     test_glossary_captures_participant_and_fcw()
+    test_glossary_captures_split_article4_def()
+    test_article4_paren_unit_indexed_and_resolved()
     test_article_cross_ref_resolves()
     test_named_standard_resolves_via_toc()
     test_enrich_document_totals()
